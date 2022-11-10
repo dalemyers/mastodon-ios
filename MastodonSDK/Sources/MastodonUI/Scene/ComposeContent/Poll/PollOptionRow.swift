@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-5-31.
 //
 
-import SwiftUI
 import MastodonAsset
 import MastodonCore
+import SwiftUI
 
 public struct PollOptionRow: View {
  

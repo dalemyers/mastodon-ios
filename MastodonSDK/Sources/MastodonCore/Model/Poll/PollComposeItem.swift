@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2021-11-29.
 //
 
-import UIKit
 import Combine
 import MastodonLocalization
+import UIKit
 
 public enum PollComposeItem: Hashable {
     case option(Option)

@@ -9,13 +9,13 @@ import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import os.log
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonSDK
+import MastodonUI
+import os.log
+import UIKit
 
 class ReportResultViewModel: ObservableObject {
     

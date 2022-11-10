@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-1.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 final class WelcomeIllustrationView: UIView {
         

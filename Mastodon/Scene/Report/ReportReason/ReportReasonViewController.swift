@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-5-10.
 //
 
-import os.log
-import UIKit
-import SwiftUI
 import Combine
-import MastodonUI
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonUI
+import os.log
+import SwiftUI
+import UIKit
 
 protocol ReportReasonViewControllerDelegate: AnyObject {
     func reportReasonViewController(_ viewController: ReportReasonViewController, nextButtonPressed button: UIButton)

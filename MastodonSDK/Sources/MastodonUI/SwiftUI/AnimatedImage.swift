@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-16.
 //
 
-import SwiftUI
-import Nuke
 import FLAnimatedImage
+import Nuke
+import SwiftUI
 
 public struct AnimatedImage: UIViewRepresentable {
 

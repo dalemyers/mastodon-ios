@@ -5,15 +5,15 @@
 //  Created by BradGao on 2021/2/20.
 //
 
-import os.log
-import UIKit
+import AuthenticationServices
 import Combine
 import GameController
-import AuthenticationServices
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import os.log
+import UIKit
 
 final class MastodonPickServerViewController: UIViewController, NeedsDependency {
     

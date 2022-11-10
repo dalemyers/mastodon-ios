@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
+import Combine
+import MastodonAsset
+import MastodonCore
+import MastodonLocalization
+import Meta
+import MetaTextKit
 import os.log
 import UIKit
-import Combine
-import MetaTextKit
-import Meta
-import MastodonCore
-import MastodonAsset
-import MastodonLocalization
 
 public protocol NotificationViewDelegate: AnyObject {
     func notificationView(_ notificationView: NotificationView, authorAvatarButtonDidPressed button: AvatarButton)

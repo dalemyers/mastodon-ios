@@ -5,12 +5,12 @@
 //  Created by MainasuK on 22/9/30.
 //
 
-import os.log
-import SwiftUI
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
 import Stripes
+import SwiftUI
 
 public struct ComposeContentView: View {
     

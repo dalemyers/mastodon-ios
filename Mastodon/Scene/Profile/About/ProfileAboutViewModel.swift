@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-22.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
-import MastodonSDK
-import MastodonMeta
-import MastodonCore
 import Kanna
+import MastodonCore
+import MastodonMeta
+import MastodonSDK
+import os.log
+import UIKit
 
 final class ProfileAboutViewModel {
     

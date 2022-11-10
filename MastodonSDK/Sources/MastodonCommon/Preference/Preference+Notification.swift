@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-10-9.
 //
 
-import UIKit
 import CryptoKit
 import MastodonExtension
+import UIKit
 
 extension UserDefaults {
     // always use hash value (SHA256) from accessToken as key

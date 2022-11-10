@@ -5,16 +5,16 @@
 //  Created by sxiaojian on 2021/4/6.
 //
 
-import os.log
-import Foundation
-import MastodonSDK
-import UIKit
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
 import MastodonUI
+import os.log
+import UIKit
 
 enum SearchResultSection: Hashable {
     case main

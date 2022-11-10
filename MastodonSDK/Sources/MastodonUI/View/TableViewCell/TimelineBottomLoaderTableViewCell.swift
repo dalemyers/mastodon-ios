@@ -5,9 +5,9 @@
 //  Created by sxiaojian on 2021/2/3.
 //
 
-import UIKit
 import Combine
 import MastodonCore
+import UIKit
 
 public final class TimelineBottomLoaderTableViewCell: TimelineLoaderTableViewCell {
 

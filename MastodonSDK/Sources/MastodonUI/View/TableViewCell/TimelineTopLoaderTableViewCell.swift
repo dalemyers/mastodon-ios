@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import UIKit
 import Combine
 import MastodonCore
+import UIKit
 
 public final class TimelineTopLoaderTableViewCell: TimelineLoaderTableViewCell {
     public override func _init() {

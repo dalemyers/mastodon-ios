@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-7-5.
 //
 
-import UIKit
 import MastodonCommon
+import UIKit
 
 public protocol Theme {
 

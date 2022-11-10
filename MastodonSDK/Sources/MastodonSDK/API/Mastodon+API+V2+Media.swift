@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-7-15.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.V2.Media {
     static func uploadMediaEndpointURL(domain: String) -> URL {

@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-20.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonCore
 import MastodonSDK
+import UIKit
 
 extension DataSourceFacade {
     @MainActor

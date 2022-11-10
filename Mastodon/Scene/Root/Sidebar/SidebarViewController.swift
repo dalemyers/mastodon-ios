@@ -5,12 +5,12 @@
 //  Created by Cirno MainasuK on 2021-9-22.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
 import MastodonUI
+import os.log
+import UIKit
 
 protocol SidebarViewControllerDelegate: AnyObject {
     func sidebarViewController(_ sidebarViewController: SidebarViewController, didSelectTab tab: MainTabBarController.Tab)

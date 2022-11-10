@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-21.
 //
 
+import MastodonLocalization
 import os.log
 import UIKit
-import MastodonLocalization
 
 open class AvatarButton: UIControl {
 

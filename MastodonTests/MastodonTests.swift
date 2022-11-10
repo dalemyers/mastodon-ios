@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021/1/22.
 //
 
-import XCTest
 @testable import Mastodon
+import XCTest
 
 @MainActor
 class MastodonTests: XCTestCase {

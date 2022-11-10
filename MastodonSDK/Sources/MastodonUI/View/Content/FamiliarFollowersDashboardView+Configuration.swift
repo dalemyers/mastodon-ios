@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-5-16.
 //
 
-import UIKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import UIKit
 
 extension FamiliarFollowersDashboardView {
     public func configure(familiarFollowers: Mastodon.Entity.FamiliarFollowers?) {

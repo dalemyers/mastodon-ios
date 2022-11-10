@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-12.
 //
 
-import UIKit
 import CoreDataStack
+import UIKit
 
 extension StatusTableViewCell {
     final class ViewModel {

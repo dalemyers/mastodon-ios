@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-5-21.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 typealias SegmentedControlNavigateable = SegmentedControlNavigateableCore & SegmentedControlNavigateableRelay
 

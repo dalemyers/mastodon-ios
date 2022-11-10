@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-10-18.
 //
 
-import UIKit
 import Accelerate
 import MastodonAsset
+import UIKit
 
 public final class LineChartView: UIView {
     

@@ -5,13 +5,13 @@
 //  Created by sxiaojian on 2021/4/12.
 //
 
-import os.log
-import UIKit
 import Combine
-import Pageboy
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
+import Pageboy
+import UIKit
 
 final class NotificationViewModel {
     

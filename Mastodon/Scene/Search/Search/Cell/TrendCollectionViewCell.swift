@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-18.
 //
 
-import UIKit
 import Combine
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 final class TrendCollectionViewCell: UICollectionViewCell {
     

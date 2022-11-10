@@ -5,9 +5,9 @@
 //  Created by ihugo on 2021/4/19.
 //
 
+import Combine
 import Foundation
 import MastodonSDK
-import Combine
 
 extension APIService {
  

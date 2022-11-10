@@ -7,9 +7,9 @@
 
 import CoreDataStack
 import Foundation
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 class SuggestionAccountCollectionViewCell: UICollectionViewCell {
     let imageView: UIImageView = {

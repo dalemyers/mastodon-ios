@@ -5,12 +5,12 @@
 //  Created by ProtoLimit on 2022-07-19.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import GameplayKit
 import MastodonCore
+import UIKit
 
 final class BookmarkViewModel {
     

@@ -5,8 +5,8 @@
 //  Created by sxiaojian on 2021/4/29.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.DomainBlock {
     static func domainBlockEndpointURL(domain: String) -> URL {

@@ -5,10 +5,10 @@
 //  Created by BradGao on 2021/3/31.
 //
 
-import os.log
+import CoreDataStack
 import Foundation
 import GameplayKit
-import CoreDataStack
+import os.log
 
 extension HashtagTimelineViewModel {
     class State: GKState {

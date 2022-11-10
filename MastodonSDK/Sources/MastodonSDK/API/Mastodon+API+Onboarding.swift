@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-2-18.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.Onboarding {
     

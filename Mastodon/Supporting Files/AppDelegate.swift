@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021/1/22.
 //
 
-import os.log
-import UIKit
-import UserNotifications
 import AVFoundation
 import MastodonCore
 import MastodonUI
+import os.log
+import UIKit
+import UserNotifications
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-2-16.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonMeta
+import MastodonUI
 import Meta
+import UIKit
 
 extension SuggestionAccountTableViewCell {
 

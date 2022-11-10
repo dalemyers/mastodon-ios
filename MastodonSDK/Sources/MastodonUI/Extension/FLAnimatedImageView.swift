@@ -6,11 +6,11 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import Foundation
-import Combine
 import Alamofire
 import AlamofireImage
+import Combine
 import FLAnimatedImage
+import Foundation
 
 private enum FLAnimatedImageViewAssociatedKeys {
     static var activeAvatarRequestURL = "FLAnimatedImageViewAssociatedKeys.activeAvatarRequestURL"

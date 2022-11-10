@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-11-2.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.Account {
     

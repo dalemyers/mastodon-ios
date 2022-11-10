@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-1-26.
 //
 
+import CoreDataStack
+import MastodonLocalization
+import MastodonUI
 import os.log
 import UIKit
-import CoreDataStack
-import MastodonUI
-import MastodonLocalization
 
 extension DataSourceFacade {
     

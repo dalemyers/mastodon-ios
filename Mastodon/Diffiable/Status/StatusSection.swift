@@ -5,18 +5,18 @@
 //  Created by sxiaojian on 2021/1/27.
 //
 
+import AlamofireImage
+import AVKit
 import Combine
 import CoreData
 import CoreDataStack
-import os.log
-import UIKit
-import AVKit
-import AlamofireImage
+import MastodonCore
 import MastodonMeta
 import MastodonSDK
-import NaturalLanguage
-import MastodonCore
 import MastodonUI
+import NaturalLanguage
+import os.log
+import UIKit
 
 enum StatusSection: Equatable, Hashable {
     case main

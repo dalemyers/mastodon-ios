@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-3-17.
 //
 
-import os.log
-import UIKit
 import Combine
-import MastodonUI
 import MastodonAsset
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 protocol ComposeStatusAttachmentCollectionViewCellDelegate: AnyObject {
     func composeStatusAttachmentCollectionViewCell(_ cell: ComposeStatusAttachmentCollectionViewCell, removeButtonDidPressed button: UIButton)

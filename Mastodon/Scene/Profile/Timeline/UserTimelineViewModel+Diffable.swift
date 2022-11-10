@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-30.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 extension UserTimelineViewModel {
  

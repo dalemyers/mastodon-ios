@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.Statuses {
     

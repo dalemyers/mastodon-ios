@@ -5,16 +5,16 @@
 //  Created by MainasuK on 2022-5-26.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
-import MetaTextKit
-import MastodonMeta
-import MastodonCore
-import MastodonUI
 import MastodonAsset
+import MastodonCore
 import MastodonLocalization
+import MastodonMeta
+import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 extension ProfileHeaderView {
     class ViewModel: ObservableObject {

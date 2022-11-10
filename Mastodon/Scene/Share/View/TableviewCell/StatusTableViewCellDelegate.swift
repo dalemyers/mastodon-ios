@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-13.
 //
 
-import UIKit
-import MetaTextKit
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 // sourcery: protocolName = "StatusViewDelegate"
 // sourcery: replaceOf = "statusView(statusView"

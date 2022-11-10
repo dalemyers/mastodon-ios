@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-17.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
 import MastodonUI
+import os.log
+import UIKit
 
 final class StatusThreadRootTableViewCell: UITableViewCell {
     

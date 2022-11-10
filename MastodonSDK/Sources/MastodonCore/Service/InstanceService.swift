@@ -5,12 +5,12 @@
 //  Created by Cirno MainasuK on 2021-10-9.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
+import os.log
 
 public final class InstanceService {
     

@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021/2/2.
 //
 
-import Foundation
 import Combine
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 extension APIService {

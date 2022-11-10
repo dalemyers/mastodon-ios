@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-21.
 //
 
-import UIKit
-import FLAnimatedImage
 import AlamofireImage
+import FLAnimatedImage
+import UIKit
 
 public class AvatarImageView: FLAnimatedImageView {
     public var imageViewSize: CGSize?

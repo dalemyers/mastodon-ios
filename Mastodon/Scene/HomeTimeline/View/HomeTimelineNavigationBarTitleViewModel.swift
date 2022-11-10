@@ -7,8 +7,8 @@
 
 import Combine
 import Foundation
-import UIKit
 import MastodonCore
+import UIKit
 
 final class HomeTimelineNavigationBarTitleViewModel {
     

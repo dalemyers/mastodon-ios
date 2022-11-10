@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-2-9.
 //
 
-import os.log
-import UIKit
+import func AVFoundation.AVMakeRect
 import AVKit
 import Combine
-import func AVFoundation.AVMakeRect
+import os.log
+import UIKit
 
 final class MediaPreviewVideoViewController: UIViewController {
     

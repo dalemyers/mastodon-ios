@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-27.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 
 enum ReportItem: Hashable {
     case header(context: HeaderContext)

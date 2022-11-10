@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
+import UIKit
 
 extension NotificationTableViewCell {
     final class ViewModel {

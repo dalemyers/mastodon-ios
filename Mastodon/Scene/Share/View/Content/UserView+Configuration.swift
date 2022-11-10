@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-19.
 //
 
-import UIKit
 import Combine
-import MastodonUI
 import CoreDataStack
+import MastodonCore
 import MastodonLocalization
 import MastodonMeta
-import MastodonCore
+import MastodonUI
 import Meta
+import UIKit
 
 extension UserView {
     public func configure(user: MastodonUser) {

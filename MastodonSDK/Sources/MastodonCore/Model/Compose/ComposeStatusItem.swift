@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-11.
 //
 
-import Foundation
 import Combine
 import CoreData
-import MastodonMeta
 import CoreDataStack
+import Foundation
+import MastodonMeta
 
 /// Note: update Equatable when change case
 enum ComposeStatusItem {

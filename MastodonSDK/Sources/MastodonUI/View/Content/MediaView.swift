@@ -6,10 +6,10 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import AVKit
-import UIKit
-import Combine
 import AlamofireImage
+import AVKit
+import Combine
+import UIKit
 
 public final class MediaView: UIView {
     

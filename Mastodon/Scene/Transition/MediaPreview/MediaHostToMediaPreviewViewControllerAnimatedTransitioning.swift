@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
+import func AVFoundation.AVMakeRect
 import os.log
 import UIKit
-import func AVFoundation.AVMakeRect
 
 final class MediaHostToMediaPreviewViewControllerAnimatedTransitioning: ViewControllerAnimatedTransitioning {
     

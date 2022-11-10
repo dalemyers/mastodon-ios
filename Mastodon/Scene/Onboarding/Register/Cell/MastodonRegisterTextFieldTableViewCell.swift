@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-1-7.
 //
 
-import UIKit
 import Combine
-import MastodonUI
 import MastodonAsset
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 final class MastodonRegisterTextFieldTableViewCell: UITableViewCell {
     

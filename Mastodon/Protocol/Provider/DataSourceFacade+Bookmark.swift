@@ -5,10 +5,10 @@
 //  Created by ProtoLimit on 2022/07/29.
 //
 
-import UIKit
 import CoreData
 import CoreDataStack
 import MastodonCore
+import UIKit
 
 extension DataSourceFacade {
     public static func responseToStatusBookmarkAction(

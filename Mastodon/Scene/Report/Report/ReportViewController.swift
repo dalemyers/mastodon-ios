@@ -5,13 +5,13 @@
 //  Created by ihugo on 2021/4/20.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
+import UIKit
 
 class ReportViewController: UIViewController, NeedsDependency, ReportViewControllerAppearance {
     

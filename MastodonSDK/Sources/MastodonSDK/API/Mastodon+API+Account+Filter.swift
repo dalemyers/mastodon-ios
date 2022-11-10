@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-7-9.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 // MARK: - Account credentials
 extension Mastodon.API.Account {

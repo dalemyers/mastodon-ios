@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-3-23.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import os.log
+import UIKit
 
 protocol ComposeStatusPollOptionCollectionViewCellDelegate: AnyObject {
     func composeStatusPollOptionCollectionViewCell(_ cell: ComposeStatusPollOptionCollectionViewCell, textFieldDidBeginEditing textField: UITextField)

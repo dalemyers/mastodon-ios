@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import UIKit
 import CoreData
 import CoreDataStack
 import MastodonCore
+import UIKit
 
 extension DataSourceFacade {
     public static func responseToStatusFavoriteAction(

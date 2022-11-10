@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-31.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonCore
 
 final class CachedProfileViewModel: ProfileViewModel {

@@ -5,15 +5,15 @@
 //  Created by MainasuK Cirno on 2021-4-9.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import Kanna
-import MastodonSDK
-import MastodonMeta
 import MastodonCore
+import MastodonMeta
+import MastodonSDK
 import MastodonUI
+import os.log
+import UIKit
 
 final class ProfileHeaderViewModel {
     

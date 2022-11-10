@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-7-21.
 //
 
-import Foundation
-import Combine
 import Alamofire
 import AlamofireImage
+import Combine
 import FLAnimatedImage
+import Foundation
 import UIKit
 
 private enum FLAnimatedImageViewAssociatedKeys {

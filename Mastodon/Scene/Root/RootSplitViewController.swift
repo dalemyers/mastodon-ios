@@ -5,11 +5,11 @@
 //  Created by Cirno MainasuK on 2021-9-22.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
+import os.log
+import UIKit
 
 final class RootSplitViewController: UISplitViewController, NeedsDependency {
     

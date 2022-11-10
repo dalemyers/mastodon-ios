@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import UIKit
 import CoreData
 import MastodonUI
+import UIKit
 
 class MediaPreviewTransitionItem: Identifiable {
     

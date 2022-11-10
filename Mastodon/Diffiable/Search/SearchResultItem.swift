@@ -5,9 +5,9 @@
 //  Created by sxiaojian on 2021/4/6.
 //
 
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 enum SearchResultItem: Hashable {

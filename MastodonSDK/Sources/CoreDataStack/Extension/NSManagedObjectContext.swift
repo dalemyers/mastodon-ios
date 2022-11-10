@@ -5,10 +5,10 @@
 //  Created by Cirno MainasuK on 2020-8-10.
 //
 
-import os
-import Foundation
 import Combine
 import CoreData
+import Foundation
+import os
 
 extension NSManagedObjectContext {
     public func insert<T: NSManagedObject>() -> T where T: Managed {

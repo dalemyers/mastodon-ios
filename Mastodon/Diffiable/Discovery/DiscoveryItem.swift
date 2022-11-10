@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
+import CoreDataStack
 import Foundation
 import MastodonSDK
-import CoreDataStack
 
 enum DiscoveryItem: Hashable {
     case hashtag(Mastodon.Entity.Tag)

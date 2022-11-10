@@ -6,8 +6,8 @@
 //
 
 import CoreData
-import Foundation
 import CoreDataStack
+import Foundation
 
 enum SelectedAccountItem: Hashable {
     case account(ManagedObjectRecord<MastodonUser>)

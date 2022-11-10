@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import os.log
 import func AVFoundation.AVMakeRect
-import UIKit
 import FLAnimatedImage
+import os.log
+import UIKit
 
 final class MediaPreviewImageView: UIScrollView {
     

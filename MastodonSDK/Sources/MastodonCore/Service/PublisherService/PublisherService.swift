@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2021-12-2.
 //
 
+import Combine
 import os.log
 import UIKit
-import Combine
 
 public final class PublisherService {
     

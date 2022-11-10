@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-3-18.
 //
 
-import os.log
-import Foundation
 import Combine
-import MobileCoreServices
-import PhotosUI
+import Foundation
 import MastodonSDK
+import MobileCoreServices
+import os.log
+import PhotosUI
 
 // load image with low memory usage
 // Refs: https://christianselig.com/2020/09/phpickerviewcontroller-efficiently/

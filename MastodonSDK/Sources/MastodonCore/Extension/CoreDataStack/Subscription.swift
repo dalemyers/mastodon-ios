@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-4-25.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 public typealias NotificationSubscription = Subscription

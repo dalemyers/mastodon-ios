@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-11.
 //
 
-import Foundation
-import CoreGraphics
 import CoreDataStack
+import CoreGraphics
+import Foundation
 import MastodonSDK
 
 extension Status.Property {

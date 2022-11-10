@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-3-30.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 public final class ProfileStatusDashboardMeterView: UIView {
     

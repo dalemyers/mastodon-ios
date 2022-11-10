@@ -5,15 +5,15 @@
 //  Created by sxiaojian on 2021/4/1.
 //
 
+import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import UIKit
-import MetaTextKit
-import MastodonMeta
-import Combine
 import MastodonCore
+import MastodonMeta
+import MastodonSDK
+import MetaTextKit
+import UIKit
 
 enum RecommendAccountSection: Equatable, Hashable {
     case main

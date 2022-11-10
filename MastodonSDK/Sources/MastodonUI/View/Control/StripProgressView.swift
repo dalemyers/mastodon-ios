@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-3-3.
 //
 
+import Combine
 import os.log
 import UIKit
-import Combine
 
 public final class StripProgressLayer: CALayer {
     

@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
-import UIKit
 import Combine
+import CoreDataStack
 import MastodonAsset
 import MastodonLocalization
-import CoreDataStack
+import UIKit
 
 public enum RelationshipAction: Int, CaseIterable {
     case showReblogs

@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-29.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonCore
 import MastodonUI
+import os.log
+import UIKit
 
 // Local Timeline
 final class DiscoveryCommunityViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {

@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
-import Pageboy
 import MastodonCore
+import Pageboy
+import UIKit
 
 final class MediaPreviewViewModel: NSObject {
     

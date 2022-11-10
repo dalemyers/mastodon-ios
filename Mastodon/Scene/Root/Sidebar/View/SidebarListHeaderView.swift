@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-10-28.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 final class SidebarListHeaderView: UICollectionReusableView {
     

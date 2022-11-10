@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-5.
 //
 
-import UIKit
 import Combine
 import MastodonCommon
+import UIKit
 
 // ref: https://zamzam.io/protocol-oriented-themes-for-ios-apps/
 public final class ThemeService {

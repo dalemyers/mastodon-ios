@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
 import Combine
-import XLPagerTabStrip
-import TabBarPager
 import MastodonAsset
 import MastodonCore
 import MastodonUI
+import os.log
+import TabBarPager
+import UIKit
+import XLPagerTabStrip
 
 protocol ProfilePagingViewControllerDelegate: AnyObject {
     func profilePagingViewController(_ viewController: ProfilePagingViewController, didScrollToPostCustomScrollViewContainerController customScrollViewContainerController: ScrollViewContainer, atIndex index: Int)

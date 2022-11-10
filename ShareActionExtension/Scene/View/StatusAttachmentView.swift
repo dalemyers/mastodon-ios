@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-7-19.
 //
 
-import SwiftUI
 import Introspect
+import SwiftUI
 
 struct StatusAttachmentView: View {
 

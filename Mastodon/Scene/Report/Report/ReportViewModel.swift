@@ -10,12 +10,12 @@ import CoreData
 import CoreDataStack
 import Foundation
 import GameplayKit
+import MastodonCore
+import MastodonLocalization
 import MastodonSDK
 import OrderedCollections
 import os.log
 import UIKit
-import MastodonCore
-import MastodonLocalization
 
 class ReportViewModel {
     

@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-3-9.
 //
 
-import Foundation
 import Combine
-import MastodonSDK
+import CommonOSLog
 import CoreData
 import CoreDataStack
-import CommonOSLog
+import Foundation
+import MastodonSDK
 
 extension APIService {
     

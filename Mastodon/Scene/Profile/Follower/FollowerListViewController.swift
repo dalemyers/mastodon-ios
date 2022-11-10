@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-11-1.
 //
 
+import Combine
+import GameplayKit
+import MastodonCore
+import MastodonLocalization
+import MastodonUI
 import os.log
 import UIKit
-import GameplayKit
-import Combine
-import MastodonCore
-import MastodonUI
-import MastodonLocalization
 
 final class FollowerListViewController: UIViewController, NeedsDependency {
     

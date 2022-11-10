@@ -6,10 +6,10 @@
 //
 
 import Combine
+import MastodonCore
 import os.log
 import UIKit
 import WebKit
-import MastodonCore
 
 final class MastodonResendEmailViewController: UIViewController, NeedsDependency {
     

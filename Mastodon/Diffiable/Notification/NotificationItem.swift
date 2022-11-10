@@ -6,8 +6,8 @@
 //
 
 import CoreData
-import Foundation
 import CoreDataStack
+import Foundation
 
 enum NotificationItem: Hashable {
     case feed(record: ManagedObjectRecord<Feed>)

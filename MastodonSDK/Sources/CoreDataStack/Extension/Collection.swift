@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2020-10-14.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 extension Collection where Iterator.Element: NSManagedObject {
     public func fetchFaults() {

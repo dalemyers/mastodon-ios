@@ -5,18 +5,18 @@
 //  Created by sxiaojian on 2021/4/21.
 //
 
-import os.log
 import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import UIKit
-import MetaTextKit
-import MastodonMeta
 import MastodonAsset
 import MastodonLocalization
+import MastodonMeta
+import MastodonSDK
 import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 protocol SuggestionAccountTableViewCellDelegate: AnyObject {
     func suggestionAccountTableViewCell(_ cell: SuggestionAccountTableViewCell, friendshipDidPressed button: UIButton)

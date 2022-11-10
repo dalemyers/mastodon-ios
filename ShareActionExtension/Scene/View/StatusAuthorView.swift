@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-7-16.
 //
 
-import SwiftUI
+import FLAnimatedImage
 import MastodonUI
 import Nuke
-import FLAnimatedImage
+import SwiftUI
 
 struct StatusAuthorView: View {
 

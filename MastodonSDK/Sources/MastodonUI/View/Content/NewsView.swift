@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
+import UIKit
 
 public final class NewsView: UIView {
         

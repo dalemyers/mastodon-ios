@@ -5,16 +5,16 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
+import AlamofireImage
+import Combine
+import CoreDataStack
+import MastodonAsset
+import MastodonCore
+import MastodonLocalization
+import MastodonSDK
+import Meta
 import os.log
 import UIKit
-import Combine
-import Meta
-import AlamofireImage
-import CoreDataStack
-import MastodonLocalization
-import MastodonAsset
-import MastodonSDK
-import MastodonCore
 
 extension ProfileCardView {
     public class ViewModel: ObservableObject {

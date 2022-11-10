@@ -5,9 +5,9 @@
 //  Created by sxiaojian on 2021/3/8.
 //
 
+import Combine
 import Foundation
 import UIKit
-import Combine
 
 /// A custom subscription to capture UIControl target events.
 final class UIControlSubscription<SubscriberType: Subscriber, Control: UIControl>: Subscription where SubscriberType.Input == Control {

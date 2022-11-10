@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-1-27.
 //
 
-import UIKit
 import MastodonCore
+import UIKit
 
 protocol NeedsDependency: AnyObject {
     var context: AppContext! { get set }

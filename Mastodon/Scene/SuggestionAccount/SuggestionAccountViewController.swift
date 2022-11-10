@@ -9,12 +9,12 @@ import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import OSLog
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import OSLog
+import UIKit
 
 class SuggestionAccountViewController: UIViewController, NeedsDependency {
     

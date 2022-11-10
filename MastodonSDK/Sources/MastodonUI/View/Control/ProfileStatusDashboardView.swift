@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-3-30.
 //
 
-import os.log
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import os.log
+import UIKit
 
 public protocol ProfileStatusDashboardViewDelegate: AnyObject {
     func profileStatusDashboardView(_ dashboardView: ProfileStatusDashboardView, dashboardMeterViewDidPressed dashboardMeterView: ProfileStatusDashboardMeterView, meter: ProfileStatusDashboardView.Meter)

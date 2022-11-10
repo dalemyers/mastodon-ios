@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-7-13.
 //
 
-import os.log
-import UIKit
 import Combine
-import Pageboy
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
+import Pageboy
+import UIKit
 
 final class CustomSearchController: UISearchController {
     

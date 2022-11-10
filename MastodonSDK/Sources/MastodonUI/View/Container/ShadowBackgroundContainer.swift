@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-5.
 //
 
-import UIKit
 import MastodonExtension
+import UIKit
 
 public final class ShadowBackgroundContainer: UIView {
     

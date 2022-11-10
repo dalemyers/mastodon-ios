@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-11-1.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonAsset
 import MastodonLocalization
-import MastodonUI
 import MastodonSDK
+import MastodonUI
+import UIKit
 
 protocol UserTableViewCellDelegate: AnyObject { }
 

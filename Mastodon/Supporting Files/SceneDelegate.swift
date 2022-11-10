@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021/1/22.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
 import MastodonExtension
+import os.log
+import UIKit
 
 #if PROFILE
 import FPSIndicator

@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021/2/1.
 //
 
-import os.log
-import UIKit
+import Combine
 import CoreData
 import CoreDataStack
-import Combine
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
+import UIKit
 
 final class AuthenticationViewModel {
     

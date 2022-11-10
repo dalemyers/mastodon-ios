@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-2-22.
 //
 
-import UIKit
 import Combine
-import MastodonSDK
 import MastodonAsset
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 final class MastodonServerRulesViewModel {
     

@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-21.
 //
 
-import UIKit
 import FLAnimatedImage
 import MastodonUI
+import UIKit
 
 final class NotificationAvatarButton: AvatarButton {
 

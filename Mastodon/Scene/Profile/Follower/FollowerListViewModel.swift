@@ -5,14 +5,13 @@
 //  Created by Cirno MainasuK on 2021-11-1.
 //
 
-import Foundation
-import Combine
 import Combine
 import CoreData
 import CoreDataStack
+import Foundation
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
 
 final class FollowerListViewModel {
     

@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-2-16.
 //
 
-import os.log
-import UIKit
 import CoreDataStack
 import MastodonCore
+import os.log
+import UIKit
 
 extension StatusTableViewControllerNavigateableCore where Self: DataSourceProvider & StatusTableViewControllerNavigateableRelay {
 

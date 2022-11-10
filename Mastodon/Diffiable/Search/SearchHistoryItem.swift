@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-15.
 //
 
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 
 enum SearchHistoryItem: Hashable {
     case hashtag(ManagedObjectRecord<Tag>)

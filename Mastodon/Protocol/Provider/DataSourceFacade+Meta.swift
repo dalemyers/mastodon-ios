@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-17.
 //
 
-import Foundation
 import CoreDataStack
-import MetaTextKit
+import Foundation
 import MastodonCore
+import MetaTextKit
 
 extension DataSourceFacade {
     

@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-7-26.
 //
 
-import Foundation
-import Intents
 import Combine
 import CoreData
 import CoreDataStack
-import MastodonSDK
+import Foundation
+import Intents
 import MastodonCore
+import MastodonSDK
 
 final class SendPostIntentHandler: NSObject {
 

@@ -5,17 +5,17 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import UIKit
 import Combine
-import MastodonUI
 import CoreDataStack
-import MetaTextKit
-import MastodonMeta
-import Meta
+import class CoreDataStack.Notification
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
-import class CoreDataStack.Notification
+import MastodonMeta
+import MastodonUI
+import Meta
+import MetaTextKit
+import UIKit
 
 extension NotificationView {
     public func configure(feed: Feed) {

@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-11.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 extension NSManagedObjectContext {
     public func safeFetch<T>(_ request: NSFetchRequest<T>) -> [T] where T : NSFetchRequestResult {

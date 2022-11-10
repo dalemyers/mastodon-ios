@@ -5,13 +5,13 @@
 //  Created by sxiaojian on 2021/1/27.
 //
 
-import os.log
-import UIKit
+import AlamofireImage
 import Combine
 import CoreData
 import CoreDataStack
 import MastodonSDK
-import AlamofireImage
+import os.log
+import UIKit
 // import AlamofireNetworkActivityIndicator
 
 public final class APIService {

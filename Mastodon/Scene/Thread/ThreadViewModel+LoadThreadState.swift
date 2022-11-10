@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import os.log
-import Foundation
 import Combine
-import GameplayKit
 import CoreDataStack
+import Foundation
+import GameplayKit
 import MastodonSDK
+import os.log
 
 extension ThreadViewModel {
     class LoadThreadState: GKState {

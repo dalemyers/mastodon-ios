@@ -5,11 +5,11 @@
 //  Created by sxiaojian on 2021/2/3.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import UIKit
 
 open class TimelineLoaderTableViewCell: UITableViewCell {
     

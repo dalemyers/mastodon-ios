@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-25.
 //
 
-import UIKit
 import Combine
-import MetaTextKit
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 final class CustomEmojiPickerInputViewModel {
     

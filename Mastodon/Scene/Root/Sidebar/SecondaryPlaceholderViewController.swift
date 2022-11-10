@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-9-29.
 //
 
-import UIKit
 import Combine
 import MastodonCore
+import UIKit
 
 final class SecondaryPlaceholderViewController: UIViewController {
     var disposeBag = Set<AnyCancellable>()

@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-2-8.
 //
 
-import os.log
-import UIKit
-import SwiftUI
 import Combine
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
+import SwiftUI
+import UIKit
 
 final class ReportResultViewController: UIViewController, NeedsDependency, ReportViewControllerAppearance {
     

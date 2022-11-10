@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-5-25.
 //
 
-import os.log
-import UIKit
 import Combine
-import MetaTextKit
 import MastodonAsset
 import MastodonLocalization
+import MetaTextKit
+import os.log
+import UIKit
 
 protocol ProfileFieldCollectionViewCellDelegate: AnyObject {
     func profileFieldCollectionViewCell(_ cell: ProfileFieldCollectionViewCell, metaLebel: MetaLabel, didSelectMeta meta: Meta)

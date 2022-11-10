@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-5.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonCommon
+import UIKit
 
 struct MastodonTheme: Theme {
 

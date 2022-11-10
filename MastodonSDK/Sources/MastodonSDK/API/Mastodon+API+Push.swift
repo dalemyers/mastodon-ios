@@ -5,8 +5,8 @@
 //  Created by ihugo on 2021/4/9.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.Subscriptions {
     

@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-5-26.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
-import MastodonLocalization
-import MetaTextKit
 import MastodonCore
+import MastodonLocalization
 import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 final class ProfileFieldAddEntryCollectionViewCell: UICollectionViewCell {
 

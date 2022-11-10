@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-5-10.
 //
 
-import UIKit
-import SwiftUI
+import MastodonAsset
 import MastodonLocalization
 import MastodonSDK
-import MastodonAsset
+import SwiftUI
+import UIKit
 
 struct ReportServerRulesView: View {
     

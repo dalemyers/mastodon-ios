@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-25.
 //
 
-import UIKit
-import MastodonUI
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 final class StatusContentWarningEditorView: UIView {
 

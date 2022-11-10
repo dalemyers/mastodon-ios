@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-20.
 //
 
-import UIKit
 import Combine
 import MastodonCore
 import MastodonUI
+import UIKit
 
 final class SearchHistoryUserCollectionViewCell: UICollectionViewCell {
     

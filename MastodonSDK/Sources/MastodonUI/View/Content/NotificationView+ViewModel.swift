@@ -5,17 +5,17 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import os.log
-import UIKit
 import Combine
-import Meta
-import MastodonSDK
-import MastodonAsset
-import MastodonLocalization
-import MastodonExtension
-import MastodonCore
 import CoreData
 import CoreDataStack
+import MastodonAsset
+import MastodonCore
+import MastodonExtension
+import MastodonLocalization
+import MastodonSDK
+import Meta
+import os.log
+import UIKit
 
 extension NotificationView {
     public final class ViewModel: ObservableObject {

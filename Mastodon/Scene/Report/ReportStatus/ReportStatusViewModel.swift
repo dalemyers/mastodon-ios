@@ -10,11 +10,11 @@ import CoreData
 import CoreDataStack
 import Foundation
 import GameplayKit
+import MastodonCore
 import MastodonSDK
 import OrderedCollections
 import os.log
 import UIKit
-import MastodonCore
 
 class ReportStatusViewModel {
     

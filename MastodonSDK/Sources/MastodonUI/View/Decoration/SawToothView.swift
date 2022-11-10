@@ -5,10 +5,10 @@
 //  Created by sxiaojian on 2021/3/17.
 //
 
-import Foundation
-import UIKit
 import Combine
+import Foundation
 import MastodonCore
+import UIKit
 
 public final class SawToothView: UIView {
     static let widthUint = 8

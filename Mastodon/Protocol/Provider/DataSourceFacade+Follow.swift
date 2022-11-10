@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-24.
 //
 
-import UIKit
 import CoreDataStack
 import class CoreDataStack.Notification
 import MastodonCore
-import MastodonSDK
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 extension DataSourceFacade {
     static func responseToUserFollowAction(

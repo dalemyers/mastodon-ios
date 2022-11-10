@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import UIKit
-import MastodonSDK
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 extension TrendView {
     public func configure(tag: Mastodon.Entity.Tag) {

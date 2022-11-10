@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-12.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
-import MetaTextKit
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 extension PollOptionView {
     public func configure(pollOption option: PollOption) {

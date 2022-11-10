@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import MastodonCore
-import MastodonUI
 import MastodonSDK
+import MastodonUI
+import UIKit
 
 extension ThreadViewModel {
     

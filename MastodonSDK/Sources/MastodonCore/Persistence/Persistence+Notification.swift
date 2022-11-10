@@ -7,10 +7,10 @@
 
 import CoreData
 import CoreDataStack
+import class CoreDataStack.Notification
 import Foundation
 import MastodonSDK
 import os.log
-import class CoreDataStack.Notification
 
 extension Persistence.Notification {
     

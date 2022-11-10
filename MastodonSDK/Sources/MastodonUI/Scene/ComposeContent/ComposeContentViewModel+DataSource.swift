@@ -5,10 +5,10 @@
 //  Created by MainasuK on 22/10/10.
 //
 
-import UIKit
-import MastodonCore
 import CoreDataStack
+import MastodonCore
 import UIHostingConfigurationBackport
+import UIKit
 
 extension ComposeContentViewModel {
     

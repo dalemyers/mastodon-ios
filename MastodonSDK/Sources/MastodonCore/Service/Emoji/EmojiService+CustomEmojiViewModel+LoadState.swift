@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-3-15.
 //
 
-import os.log
 import Foundation
 import GameplayKit
+import os.log
 
 extension EmojiService.CustomEmojiViewModel {
     class LoadState: GKState {

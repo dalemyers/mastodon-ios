@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2021-12-8.
 //
 
-import UIKit
 import Combine
 import CoreData
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
+import MetaTextKit
+import UIKit
 
 extension PollOptionView {
     

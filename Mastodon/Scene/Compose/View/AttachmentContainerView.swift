@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-3-17.
 //
 
-import UIKit
-import SwiftUI
 import MastodonUI
+import SwiftUI
+import UIKit
 
 //final class AttachmentContainerView: UIView {
 //

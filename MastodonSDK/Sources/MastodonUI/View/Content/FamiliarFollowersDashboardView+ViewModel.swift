@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-5-16.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
-import MastodonMeta
 import MastodonLocalization
+import MastodonMeta
+import os.log
+import UIKit
 
 extension FamiliarFollowersDashboardView {
     public final class ViewModel: ObservableObject {

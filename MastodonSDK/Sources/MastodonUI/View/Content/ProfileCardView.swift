@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
+import Combine
+import MastodonAsset
+import MetaTextKit
 import os.log
 import UIKit
-import Combine
-import MetaTextKit
-import MastodonAsset
 
 public protocol ProfileCardViewDelegate: AnyObject {
     func profileCardView(_ profileCardView: ProfileCardView, relationshipButtonDidPressed button: ProfileRelationshipActionButton)

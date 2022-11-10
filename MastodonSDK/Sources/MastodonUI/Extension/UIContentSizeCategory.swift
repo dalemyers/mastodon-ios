@@ -6,8 +6,8 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 extension UIContentSizeCategory {
     // for Dynamic Type

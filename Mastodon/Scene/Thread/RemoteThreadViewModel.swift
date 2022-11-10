@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import os.log
-import UIKit
 import CoreDataStack
 import MastodonCore
 import MastodonSDK
+import os.log
+import UIKit
 
 final class RemoteThreadViewModel: ThreadViewModel {
         

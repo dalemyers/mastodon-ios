@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-3-23.
 //
 
-import os.log
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 protocol ComposeStatusPollOptionAppendEntryCollectionViewCellDelegate: AnyObject {
     func composeStatusPollOptionAppendEntryCollectionViewCellDidPressed(_ cell: ComposeStatusPollOptionAppendEntryCollectionViewCell)

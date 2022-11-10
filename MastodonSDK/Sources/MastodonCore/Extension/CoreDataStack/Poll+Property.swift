@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2021-12-9.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 extension Poll.Property {

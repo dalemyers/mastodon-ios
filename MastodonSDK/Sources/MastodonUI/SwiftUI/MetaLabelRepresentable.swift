@@ -5,10 +5,10 @@
 //  Created by MainasuK on 22/10/11.
 //
 
-import UIKit
-import SwiftUI
 import MastodonCore
 import MetaTextKit
+import SwiftUI
+import UIKit
 
 public struct MetaLabelRepresentable: UIViewRepresentable {
     

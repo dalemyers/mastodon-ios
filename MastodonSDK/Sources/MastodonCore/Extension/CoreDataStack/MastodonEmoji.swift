@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonMeta
 import MastodonSDK
 

@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2021-12-14.
 //
 
+import MastodonLocalization
 import os.log
 import UIKit
-import MastodonLocalization
 
 public final class ContentWarningOverlayView: UIView {
         

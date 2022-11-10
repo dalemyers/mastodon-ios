@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2020-8-6.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public protocol Managed: NSFetchRequestResult {
     static var entityName: String { get }

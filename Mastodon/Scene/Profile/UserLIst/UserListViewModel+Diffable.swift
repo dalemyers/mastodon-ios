@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 extension UserListViewModel {
     @MainActor

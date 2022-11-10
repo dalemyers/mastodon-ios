@@ -5,11 +5,11 @@
 //  Created by sxiaojian on 2021/3/15.
 //
 
-import os.log
-import UIKit
-import MastodonUI
 import MastodonAsset
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 protocol HomeTimelineNavigationBarTitleViewDelegate: AnyObject {
     func homeTimelineNavigationBarTitleView(_ titleView: HomeTimelineNavigationBarTitleView, logoButtonDidPressed sender: UIButton)

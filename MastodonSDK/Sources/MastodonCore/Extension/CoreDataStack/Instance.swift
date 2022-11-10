@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-10-9.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonSDK
+import UIKit
 
 extension Instance {
     public var configuration: Mastodon.Entity.Instance.Configuration? {

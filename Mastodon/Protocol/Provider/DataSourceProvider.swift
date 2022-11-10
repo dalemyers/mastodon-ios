@@ -6,11 +6,11 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
+import CoreDataStack
+import class CoreDataStack.Notification
+import MastodonSDK
 import os.log
 import UIKit
-import CoreDataStack
-import MastodonSDK
-import class CoreDataStack.Notification
 
 enum DataSourceItem: Hashable {
     case status(record: ManagedObjectRecord<Status>)

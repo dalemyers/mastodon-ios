@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-5-25.
 //
 
-import Foundation
 import Combine
-import MastodonSDK
+import Foundation
 import MastodonMeta
+import MastodonSDK
 
 enum ProfileFieldItem: Hashable {
     case field(field: FieldValue)

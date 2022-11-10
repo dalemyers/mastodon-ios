@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-4-12.
 //
 
-import os.log
-import UIKit
 import Combine
-import Tabman
-import Pageboy
 import MastodonAsset
 import MastodonCore
 import MastodonUI
+import os.log
+import Pageboy
+import Tabman
+import UIKit
 
 public class DiscoveryViewController: TabmanViewController, NeedsDependency {
     

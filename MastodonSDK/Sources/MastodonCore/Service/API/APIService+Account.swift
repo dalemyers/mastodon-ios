@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021/2/2.
 //
 
-import os.log
-import Foundation
 import Combine
 import CommonOSLog
+import Foundation
 import MastodonCommon
 import MastodonSDK
+import os.log
 
 extension APIService {
 

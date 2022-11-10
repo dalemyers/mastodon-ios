@@ -5,10 +5,10 @@
 //  Created by Cirno MainasuK on 2021/3/5.
 //
 
-import UIKit
-import MastodonSDK
-import Kanna
 import AlamofireImage
+import Kanna
+import MastodonSDK
+import UIKit
 
 enum PickServerSection: Equatable, Hashable {
     case header

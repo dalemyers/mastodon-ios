@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
+import Combine
+import MastodonCore
+import MastodonUI
 import os.log
 import UIKit
-import Combine
-import MastodonUI
-import MastodonCore
 
 final class DiscoveryForYouViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {
     

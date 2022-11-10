@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021/1/29
 //
 
-import os
-import Foundation
 import CommonOSLog
+import Foundation
+import os
 
 extension OSLog {
     static let api: OSLog = {

@@ -5,11 +5,11 @@
 //  Created by Cirno MainasuK on 2021-10-28.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
+import os.log
+import UIKit
 
 protocol ContentSplitViewControllerDelegate: AnyObject {
     func contentSplitViewController(_ contentSplitViewController: ContentSplitViewController, sidebarViewController: SidebarViewController, didSelectTab tab: MainTabBarController.Tab)

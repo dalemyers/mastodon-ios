@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021/2/3.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
+import os.log
 
 public final class AuthenticationService: NSObject {
 

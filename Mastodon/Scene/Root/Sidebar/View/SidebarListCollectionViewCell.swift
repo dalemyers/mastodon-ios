@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-9-24.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 final class SidebarListCollectionViewCell: UICollectionViewListCell {
     

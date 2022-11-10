@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-5-14.
 //
 
-import UIKit
 import Combine
 import MastodonCore
 import MastodonUI
+import UIKit
 
 final class AutoCompleteTopChevronView: UIView {
 

@@ -5,15 +5,14 @@
 //  Created by MainasuK on 2022-5-11.
 //
 
-import UIKit
-import SwiftUI
-import MastodonSDK
-import MastodonUI
+import CoreDataStack
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
-import CoreDataStack
+import MastodonSDK
+import MastodonUI
+import SwiftUI
+import UIKit
 
 struct ReportResultView: View {
     

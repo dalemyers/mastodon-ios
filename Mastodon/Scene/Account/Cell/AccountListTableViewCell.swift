@@ -5,12 +5,12 @@
 //  Created by Cirno MainasuK on 2021-9-13.
 //
 
-import UIKit
 import Combine
 import FLAnimatedImage
-import MetaTextKit
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 final class AccountListTableViewCell: UITableViewCell {
     

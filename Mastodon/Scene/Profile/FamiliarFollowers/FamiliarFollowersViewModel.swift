@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import UIKit
 import Combine
+import CoreDataStack
 import MastodonCore
 import MastodonSDK
-import CoreDataStack
+import UIKit
 
 final class FamiliarFollowersViewModel {
     

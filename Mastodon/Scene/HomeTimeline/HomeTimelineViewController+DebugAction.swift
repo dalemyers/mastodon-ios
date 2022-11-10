@@ -7,16 +7,16 @@
 
 
 #if DEBUG || SNAPSHOT
-import os.log
-import UIKit
 import CoreData
 import CoreDataStack
 import FLEX
-import SwiftUI
 import MastodonCore
-import MastodonUI
 import MastodonSDK
+import MastodonUI
+import os.log
 import StoreKit
+import SwiftUI
+import UIKit
 
 extension HomeTimelineViewController {
     var debugMenu: UIMenu {

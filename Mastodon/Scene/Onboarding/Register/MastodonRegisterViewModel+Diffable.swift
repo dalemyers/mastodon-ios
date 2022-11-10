@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-5.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 extension MastodonRegisterViewModel {
     func setupDiffableDataSource(

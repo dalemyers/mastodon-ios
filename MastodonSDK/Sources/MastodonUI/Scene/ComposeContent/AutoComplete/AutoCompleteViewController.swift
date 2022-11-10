@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-5-14.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonCore
+import os.log
+import UIKit
 
 protocol AutoCompleteViewControllerDelegate: AnyObject {
     func autoCompleteViewController(_ viewController: AutoCompleteViewController, didSelectItem item: AutoCompleteItem)

@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
+import MastodonCore
+import MastodonSDK
+import MastodonUI
 import os.log
 import UIKit
-import MastodonCore
-import MastodonUI
-import MastodonSDK
 
 enum DiscoverySection: CaseIterable {
     // case posts

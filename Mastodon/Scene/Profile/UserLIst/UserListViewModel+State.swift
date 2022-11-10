@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import os.log
 import Foundation
 import GameplayKit
 import MastodonSDK
+import os.log
 
 extension UserListViewModel {
     class State: GKState {

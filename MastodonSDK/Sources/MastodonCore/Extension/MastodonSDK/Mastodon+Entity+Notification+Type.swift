@@ -6,10 +6,10 @@
 //
 
 import Foundation
-import MastodonSDK
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 extension Mastodon.Entity.Notification.NotificationType {
     public var color: UIColor {

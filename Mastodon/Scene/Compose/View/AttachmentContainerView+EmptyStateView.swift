@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-18.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 //extension AttachmentContainerView {
 //    final class EmptyStateView: UIView {

@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2021-12-9.
 //
 
+import CoreDataStack
 import Foundation
 import MastodonSDK
-import CoreDataStack
 
 extension PollOption.Property {
     public init(

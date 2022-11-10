@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-22.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonSDK
+import os.log
+import UIKit
 
 extension ProfileAboutViewModel {
     

@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-3-23.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 public final class PollOptionView: UIView {
     

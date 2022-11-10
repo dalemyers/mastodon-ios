@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-18.
 //
 
-import UIKit
 import MastodonSDK
+import UIKit
 
 //extension SearchViewModel {
 //    

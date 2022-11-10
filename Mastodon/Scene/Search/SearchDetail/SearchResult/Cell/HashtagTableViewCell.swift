@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-20.
 //
 
-import UIKit
 import MetaTextKit
+import UIKit
 
 final class HashtagTableViewCell: UITableViewCell {
     

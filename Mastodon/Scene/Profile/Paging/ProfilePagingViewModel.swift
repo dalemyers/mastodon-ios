@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import os.log
 import TabBarPager
+import UIKit
 
 final class ProfilePagingViewModel: NSObject {
     

@@ -5,11 +5,11 @@
 //  Created by MainasuK on 22/10/18.
 //
 
-import SwiftUI
-import MastodonCore
 import MastodonAsset
+import MastodonCore
 import MastodonLocalization
 import MastodonSDK
+import SwiftUI
 
 extension ComposeContentToolbarView {
     class ViewModel: ObservableObject {

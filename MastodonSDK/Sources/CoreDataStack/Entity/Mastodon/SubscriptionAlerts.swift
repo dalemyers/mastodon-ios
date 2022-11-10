@@ -6,8 +6,8 @@
 //
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public final class SubscriptionAlerts: NSManagedObject {
     @NSManaged public var favouriteRaw: NSNumber?

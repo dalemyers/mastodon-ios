@@ -5,12 +5,12 @@
 //  Created by sxiaojian on 2021/4/27.
 //
 
-import UIKit
 import Combine
+import CommonOSLog
 import CoreData
 import CoreDataStack
-import CommonOSLog
 import MastodonSDK
+import UIKit
 
 extension APIService {
     

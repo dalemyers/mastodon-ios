@@ -5,15 +5,15 @@
 //  Created by MainasuK Cirno on 2021-2-22.
 //
 
-import os.log
-import UIKit
 import Combine
-import MastodonSDK
-import SafariServices
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import MetaTextKit
+import os.log
+import SafariServices
+import UIKit
 
 final class MastodonServerRulesViewController: UIViewController, NeedsDependency {
     

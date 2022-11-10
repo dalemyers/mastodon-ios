@@ -5,15 +5,14 @@
 //  Created by MainasuK Cirno on 2021-7-16.
 //
 
-import os.log
-import UIKit
 import Combine
-import MastodonUI
-import SwiftUI
 import MastodonAsset
-import MastodonLocalization
 import MastodonCore
+import MastodonLocalization
 import MastodonUI
+import os.log
+import SwiftUI
+import UIKit
 
 class ComposeViewController: UIViewController {
 

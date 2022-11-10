@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-2-8.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 final class ReportResultActionTableViewCell: UITableViewCell {
     

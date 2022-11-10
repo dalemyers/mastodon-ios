@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-30.
 //
 
-import os.log
 import Foundation
 import GameplayKit
 import MastodonCore
 import MastodonSDK
+import os.log
 
 extension UserTimelineViewModel {
     class State: GKState {

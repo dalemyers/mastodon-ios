@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-6-4.
 //
 
+import AuthenticationServices
+import Combine
+import MastodonCore
 import os.log
 import UIKit
-import Combine
-import AuthenticationServices
-import MastodonCore
 
 final class MastodonAuthenticationController {
     

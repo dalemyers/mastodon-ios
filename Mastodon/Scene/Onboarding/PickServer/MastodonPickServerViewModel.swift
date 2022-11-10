@@ -5,16 +5,16 @@
 //  Created by BradGao on 2021/2/23.
 //
 
-import os.log
-import UIKit
 import Combine
-import GameplayKit
-import MastodonSDK
 import CoreDataStack
-import OrderedCollections
-import Tabman
+import GameplayKit
 import MastodonCore
+import MastodonSDK
 import MastodonUI
+import OrderedCollections
+import os.log
+import Tabman
+import UIKit
 
 class MastodonPickServerViewModel: NSObject {
     

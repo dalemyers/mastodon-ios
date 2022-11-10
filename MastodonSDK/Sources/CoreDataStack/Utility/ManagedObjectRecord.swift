@@ -6,8 +6,8 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public class ManagedObjectRecord<T: NSFetchRequestResult>: Hashable {
     

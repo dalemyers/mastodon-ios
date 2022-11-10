@@ -5,15 +5,15 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
 import AVKit
 import Combine
 import CoreDataStack
 import GameplayKit
-import TabBarPager
-import XLPagerTabStrip
 import MastodonCore
+import os.log
+import TabBarPager
+import UIKit
+import XLPagerTabStrip
 
 final class UserTimelineViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {
     

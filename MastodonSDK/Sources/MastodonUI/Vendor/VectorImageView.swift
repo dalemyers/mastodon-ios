@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-29.
 //
 
-import UIKit
 import SwiftUI
+import UIKit
 
 // workaround SwiftUI vector image scale problem
 // https://stackoverflow.com/a/61178828/3797903
