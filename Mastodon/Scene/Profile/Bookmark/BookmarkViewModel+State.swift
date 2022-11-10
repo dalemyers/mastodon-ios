@@ -5,11 +5,11 @@
 //  Created by ProtoLimit on 2022-07-19.
 //
 
-import os.log
 import Foundation
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
 
 extension BookmarkViewModel {
     class State: GKState {

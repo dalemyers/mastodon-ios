@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-4-25.
 //
 
-import UIKit
 import CoreData
 import CoreDataStack
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 enum SettingsItem {
     case appearance(record: ManagedObjectRecord<Setting>)

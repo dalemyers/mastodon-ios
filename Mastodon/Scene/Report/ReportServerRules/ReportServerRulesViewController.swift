@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-5-10.
 //
 
-import os.log
-import UIKit
-import SwiftUI
 import Combine
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import SwiftUI
+import UIKit
 
 protocol ReportServerRulesViewControllerDelegate: AnyObject {
     func reportServerRulesViewController(_ viewController: ReportServerRulesViewController, nextButtonPressed button: UIButton)

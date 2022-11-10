@@ -5,14 +5,14 @@
 //  Created by Cirno MainasuK on 2021-9-13.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
-import PanModal
 import MastodonAsset
-import MastodonLocalization
 import MastodonCore
+import MastodonLocalization
+import os.log
+import PanModal
+import UIKit
 
 final class AccountListViewController: UIViewController, NeedsDependency {
 

@@ -4,15 +4,15 @@
 //
 //  Created by Cirno MainasuK on 2021-1-27.
 
-import UIKit
 import Combine
-import SafariServices
 import CoreDataStack
-import PanModal
-import MastodonSDK
-import MastodonCore
 import MastodonAsset
+import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import PanModal
+import SafariServices
+import UIKit
 
 final public class SceneCoordinator {
     

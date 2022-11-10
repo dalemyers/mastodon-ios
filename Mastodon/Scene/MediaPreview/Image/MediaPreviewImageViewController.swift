@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import os.log
-import UIKit
 import Combine
+import FLAnimatedImage
 import MastodonAsset
 import MastodonLocalization
-import FLAnimatedImage
+import os.log
+import UIKit
 
 protocol MediaPreviewImageViewControllerDelegate: AnyObject {
     func mediaPreviewImageViewController(_ viewController: MediaPreviewImageViewController, tapGestureRecognizerDidTrigger tapGestureRecognizer: UITapGestureRecognizer)

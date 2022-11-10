@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-5.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 enum ServerRuleSection: Hashable {
     case header

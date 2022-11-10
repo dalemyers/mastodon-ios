@@ -6,9 +6,9 @@
 //  Copyright © 2020 Dimension. All rights reserved.
 //
 
-import Foundation
-import CoreData
 import Combine
+import CoreData
+import Foundation
 
 final public class ManagedObjectObserver {
     private init() { }

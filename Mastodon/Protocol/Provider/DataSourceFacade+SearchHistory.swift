@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-20.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonCore
 
 extension DataSourceFacade {

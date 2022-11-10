@@ -5,14 +5,14 @@
 //  Created by Cirno MainasuK on 2021-1-27.
 //
 
-import os.log
-import UIKit
 import Combine
-import SafariServices
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import os.log
+import SafariServices
+import UIKit
 
 class MainTabBarController: UITabBarController {
 

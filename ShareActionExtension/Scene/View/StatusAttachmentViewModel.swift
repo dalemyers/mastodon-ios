@@ -5,20 +5,20 @@
 //  Created by MainasuK Cirno on 2021-7-19.
 //
 
-import os.log
-import Foundation
-import SwiftUI
+import AVFoundation
 import Combine
 import CoreDataStack
-import MastodonSDK
-import MastodonUI
-import AVFoundation
+import Foundation
 import GameplayKit
-import MobileCoreServices
-import UniformTypeIdentifiers
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import MastodonUI
+import MobileCoreServices
+import os.log
+import SwiftUI
+import UniformTypeIdentifiers
 
 protocol StatusAttachmentViewModelDelegate: AnyObject {
     func statusAttachmentViewModel(_ viewModel: StatusAttachmentViewModel, uploadStateDidChange state: StatusAttachmentViewModel.UploadState?)

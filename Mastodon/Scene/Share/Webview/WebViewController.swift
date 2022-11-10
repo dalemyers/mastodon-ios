@@ -5,12 +5,12 @@
 //  Created by xiaojian sun on 2021/3/30.
 //
 
-import Foundation
 import Combine
+import Foundation
+import MastodonCore
 import os.log
 import UIKit
 import WebKit
-import MastodonCore
 
 final class WebViewController: UIViewController, NeedsDependency {
     

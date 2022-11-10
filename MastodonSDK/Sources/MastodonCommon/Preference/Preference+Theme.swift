@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import UIKit
 import MastodonExtension
+import UIKit
 
 public enum ThemeName: String, CaseIterable {
     case system

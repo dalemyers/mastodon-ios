@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-11.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 final public class Feed: NSManagedObject {
     

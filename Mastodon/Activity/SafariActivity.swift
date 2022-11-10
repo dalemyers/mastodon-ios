@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-4-8.
 //
 
-import UIKit
-import SafariServices
 import MastodonAsset
 import MastodonLocalization
+import SafariServices
+import UIKit
 
 final class SafariActivity: UIActivity {
     

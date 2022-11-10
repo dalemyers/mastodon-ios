@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonCore
 
 final class CachedThreadViewModel: ThreadViewModel {

@@ -6,8 +6,8 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 extension MastodonField {

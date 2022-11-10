@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021/3/5.
 //
 
-import Foundation
 import Combine
+import Foundation
 import MastodonSDK
 
 /// Note: update Equatable when change case

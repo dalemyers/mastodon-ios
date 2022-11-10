@@ -6,13 +6,13 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import os.log
-import Foundation
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
+import os.log
+import UIKit
 
 final public class FeedFetchedResultsController: NSObject {
     

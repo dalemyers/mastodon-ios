@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-2-2.
 //
 
-import UIKit
-import MastodonSDK
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 extension APIService {
     public enum APIError: Error {

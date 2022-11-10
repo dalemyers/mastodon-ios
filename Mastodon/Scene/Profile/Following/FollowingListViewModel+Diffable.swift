@@ -5,10 +5,10 @@
 //  Created by Cirno MainasuK on 2021-11-2.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import UIKit
 
 extension FollowingListViewModel {
     func setupDiffableDataSource(

@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-24.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonCore
+import UIKit
 
 extension DataSourceFacade {
     static func responseToUserMuteAction(

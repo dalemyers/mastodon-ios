@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-18.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 
 extension Status {
     

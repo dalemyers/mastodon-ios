@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-3-11.
 //
 
-import UIKit
+import AlamofireImage
 import Combine
 import CoreData
 import CoreDataStack
-import MetaTextKit
 import MastodonMeta
-import AlamofireImage
+import MetaTextKit
+import UIKit
 
 public enum ComposeStatusSection: Equatable, Hashable {
     case replyTo

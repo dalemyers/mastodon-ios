@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonCore
 import MastodonLocalization
+import os.log
+import UIKit
 
 final class FamiliarFollowersViewController: UIViewController, NeedsDependency {
 

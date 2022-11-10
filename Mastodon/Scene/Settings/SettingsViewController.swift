@@ -5,19 +5,19 @@
 //  Created by ihugo on 2021/4/7.
 //
 
-import os.log
-import UIKit
+import AuthenticationServices
 import Combine
 import CoreData
 import CoreDataStack
-import AuthenticationServices
-import MetaTextKit
-import MastodonSDK
-import MastodonMeta
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonMeta
+import MastodonSDK
+import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 class SettingsViewController: UIViewController, NeedsDependency {
     

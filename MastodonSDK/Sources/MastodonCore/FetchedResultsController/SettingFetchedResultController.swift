@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-25.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import MastodonSDK
+import os.log
+import UIKit
 
 public final class SettingFetchedResultController: NSObject {
 

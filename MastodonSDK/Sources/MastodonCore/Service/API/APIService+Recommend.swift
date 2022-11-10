@@ -6,10 +6,10 @@
 //
 
 import Combine
-import Foundation
-import MastodonSDK
 import CoreData
 import CoreDataStack
+import Foundation
+import MastodonSDK
 import OSLog
 
 extension APIService {

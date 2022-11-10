@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-6-9.
 //
 
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import Intents
 import MastodonCore
 

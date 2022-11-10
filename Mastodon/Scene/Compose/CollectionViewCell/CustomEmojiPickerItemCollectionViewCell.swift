@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-24.
 //
 
-import UIKit
 import SDWebImage
+import UIKit
 
 final class CustomEmojiPickerItemCollectionViewCell: UICollectionViewCell {
     

@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-2-7.
 //
 
+import Combine
+import MastodonAsset
+import MastodonUI
 import os.log
 import UIKit
-import Combine
-import MastodonUI
-import MastodonAsset
 
 final class ReportStatusTableViewCell: UITableViewCell {
     

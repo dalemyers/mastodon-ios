@@ -6,8 +6,8 @@
 //
 
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 extension SubscriptionAlerts.Property {

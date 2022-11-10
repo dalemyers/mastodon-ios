@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-7-13.
 //
 
-import os.log
-import Foundation
-import CoreGraphics
 import Combine
-import MastodonSDK
-import MastodonCore
+import CoreGraphics
+import Foundation
 import MastodonAsset
+import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import os.log
 
 final class SearchDetailViewModel {
 

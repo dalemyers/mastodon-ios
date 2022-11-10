@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import os.log
-import UIKit
 import Combine
-import Pageboy
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import Pageboy
+import UIKit
 
 final class MediaPreviewViewController: UIViewController, NeedsDependency {
     

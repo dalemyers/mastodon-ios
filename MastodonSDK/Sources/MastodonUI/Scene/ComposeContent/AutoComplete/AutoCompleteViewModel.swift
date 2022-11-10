@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-5-17.
 //
 
-import UIKit
 import Combine
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import UIKit
 
 final class AutoCompleteViewModel {
     

@@ -5,15 +5,15 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
 import Combine
 import FLAnimatedImage
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 protocol ProfileHeaderViewDelegate: AnyObject {
     func profileHeaderView(_ profileHeaderView: ProfileHeaderView, avatarButtonDidPressed button: AvatarButton)

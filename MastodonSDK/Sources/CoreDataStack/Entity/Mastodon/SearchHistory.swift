@@ -5,8 +5,8 @@
 //  Created by sxiaojian on 2021/4/7.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public final class SearchHistory: NSManagedObject {
     public typealias ID = UUID

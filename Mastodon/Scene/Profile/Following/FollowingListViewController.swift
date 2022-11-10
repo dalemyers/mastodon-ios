@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-11-2.
 //
 
+import Combine
+import GameplayKit
+import MastodonCore
+import MastodonLocalization
+import MastodonUI
 import os.log
 import UIKit
-import GameplayKit
-import Combine
-import MastodonLocalization
-import MastodonCore
-import MastodonUI
 
 final class FollowingListViewController: UIViewController, NeedsDependency {
 

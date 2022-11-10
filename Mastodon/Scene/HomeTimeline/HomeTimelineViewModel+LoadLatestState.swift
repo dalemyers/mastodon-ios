@@ -5,13 +5,13 @@
 //  Created by sxiaojian on 2021/2/5.
 //
 
-import os.log
-import func QuartzCore.CACurrentMediaTime
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import GameplayKit
 import MastodonCore
+import os.log
+import func QuartzCore.CACurrentMediaTime
 
 extension HomeTimelineViewModel {
     class LoadLatestState: GKState {

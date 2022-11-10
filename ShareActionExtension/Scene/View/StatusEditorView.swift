@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-7-16.
 //
 
-import UIKit
 import SwiftUI
+import UIKit
 import UITextView_Placeholder
 
 public struct StatusEditorView: UIViewRepresentable {

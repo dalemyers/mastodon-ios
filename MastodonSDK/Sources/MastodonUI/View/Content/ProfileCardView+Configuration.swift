@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
-import Foundation
 import Combine
 import CoreDataStack
-import Meta
+import Foundation
 import MastodonCore
 import MastodonMeta
 import MastodonSDK
+import Meta
 
 extension ProfileCardView {
 

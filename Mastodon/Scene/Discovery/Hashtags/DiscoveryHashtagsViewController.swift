@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonCore
 import MastodonUI
+import os.log
+import UIKit
 
 final class DiscoveryHashtagsViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {
     

@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-2-19.
 //
 
-import Foundation
 import Combine
+import Foundation
 import MastodonSDK
 
 extension APIService {

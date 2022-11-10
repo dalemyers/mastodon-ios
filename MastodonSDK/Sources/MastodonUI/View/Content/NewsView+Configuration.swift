@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import UIKit
-import Combine
-import MastodonSDK
-import MastodonLocalization
 import AlamofireImage
+import Combine
 import FaviconFinder
+import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 extension NewsView {
     public func configure(link: Mastodon.Entity.Link) {

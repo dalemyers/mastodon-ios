@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-22.
 //
 
-import os.log
-import UIKit
 import Combine
-import MetaTextKit
-import MastodonLocalization
-import TabBarPager
-import XLPagerTabStrip
 import MastodonCore
+import MastodonLocalization
+import MetaTextKit
+import os.log
+import TabBarPager
+import UIKit
+import XLPagerTabStrip
 
 protocol ProfileAboutViewControllerDelegate: AnyObject {
     func profileAboutViewController(_ viewController: ProfileAboutViewController, profileFieldCollectionViewCell: ProfileFieldCollectionViewCell, metaLabel: MetaLabel, didSelectMeta meta: Meta)

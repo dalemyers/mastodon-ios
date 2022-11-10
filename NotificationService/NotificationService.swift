@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-4-23.
 //
 
-import UserNotifications
+import AlamofireImage
 import CommonOSLog
 import CryptoKit
-import AlamofireImage
 import MastodonCore
+import UserNotifications
 
 class NotificationService: UNNotificationServiceExtension {
 

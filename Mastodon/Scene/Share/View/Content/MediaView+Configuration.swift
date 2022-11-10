@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-1-12.
 //
 
-import UIKit
+import AlamofireImage
 import Combine
 import CoreDataStack
 import MastodonUI
-import AlamofireImage
+import UIKit
 
 extension MediaView {
     public static func configuration(status: Status) -> [MediaView.Configuration] {

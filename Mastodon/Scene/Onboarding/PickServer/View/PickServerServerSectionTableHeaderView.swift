@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-4.
 //
 
-import os.log
-import UIKit
-import Tabman
 import MastodonAsset
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import Tabman
+import UIKit
 
 protocol PickServerServerSectionTableHeaderViewDelegate: AnyObject {
     func pickServerServerSectionTableHeaderView(_ headerView: PickServerServerSectionTableHeaderView, collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath)

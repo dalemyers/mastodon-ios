@@ -1,6 +1,6 @@
-import XCTest
 import Combine
 @testable import MastodonSDK
+import XCTest
 
 final class MastodonSDKTests: XCTestCase {
     

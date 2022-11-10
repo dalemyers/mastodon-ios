@@ -6,14 +6,14 @@
 //
 
 import Combine
+import MastodonAsset
+import MastodonCore
+import MastodonLocalization
 import MastodonSDK
+import MastodonUI
 import os.log
 import ThirdPartyMailer
 import UIKit
-import MastodonAsset
-import MastodonCore
-import MastodonUI
-import MastodonLocalization
 
 final class MastodonConfirmEmailViewController: UIViewController, NeedsDependency {
     

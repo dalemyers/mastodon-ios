@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021/2/3.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 final public class MastodonAuthentication: NSManagedObject {
     

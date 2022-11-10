@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2021-12-1.
 //
 
-import os.log
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonCore
 import MastodonSDK
+import os.log
 
 public final class MastodonStatusPublisher: NSObject, ProgressReporting {
     

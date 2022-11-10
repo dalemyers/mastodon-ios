@@ -6,14 +6,14 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreData
 import CoreDataStack
-import MastodonSDK
+import Foundation
 import MastodonCore
 import MastodonMeta
+import MastodonSDK
+import os.log
 
 final class MastodonStatusThreadViewModel {
     

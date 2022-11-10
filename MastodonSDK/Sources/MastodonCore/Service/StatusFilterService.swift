@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-7-14.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreData
 import CoreDataStack
-import MastodonSDK
+import Foundation
 import MastodonMeta
+import MastodonSDK
+import os.log
 
 public final class StatusFilterService {
 

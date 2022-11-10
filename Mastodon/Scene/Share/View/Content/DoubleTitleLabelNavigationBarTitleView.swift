@@ -5,13 +5,13 @@
 //  Created by BradGao on 2021/4/1.
 //
 
-import UIKit
-import Meta
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import Meta
+import MetaTextKit
+import UIKit
 
 final class DoubleTitleLabelNavigationBarTitleView: UIView {
     

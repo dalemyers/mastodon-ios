@@ -5,15 +5,15 @@
 //  Created by MainasuK on 2022-1-12.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
-import MastodonSDK
 import MastodonCore
 import MastodonLocalization
 import MastodonMeta
+import MastodonSDK
 import Meta
 import NaturalLanguage
+import UIKit
 
 extension StatusView {
     

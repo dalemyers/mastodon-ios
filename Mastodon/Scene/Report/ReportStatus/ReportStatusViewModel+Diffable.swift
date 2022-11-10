@@ -5,12 +5,12 @@
 //  Created by ihugo on 2021/4/19.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 extension ReportStatusViewModel {
     

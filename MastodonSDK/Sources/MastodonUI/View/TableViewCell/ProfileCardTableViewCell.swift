@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
+import Combine
 import os.log
 import UIKit
-import Combine
 
 public protocol ProfileCardTableViewCellDelegate: AnyObject {
     func profileCardTableViewCell(_ cell: ProfileCardTableViewCell, profileCardView: ProfileCardView, relationshipButtonDidPressed button: ProfileRelationshipActionButton)

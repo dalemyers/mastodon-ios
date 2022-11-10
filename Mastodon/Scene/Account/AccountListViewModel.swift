@@ -5,15 +5,15 @@
 //  Created by Cirno MainasuK on 2021-9-13.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
-import MastodonSDK
-import MastodonMeta
 import MastodonCore
+import MastodonMeta
+import MastodonSDK
 import MastodonUI
+import os.log
+import UIKit
 
 final class AccountListViewModel: NSObject {
 

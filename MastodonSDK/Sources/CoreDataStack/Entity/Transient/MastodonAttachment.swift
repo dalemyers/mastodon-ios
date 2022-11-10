@@ -6,8 +6,8 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import Foundation
 import CoreGraphics
+import Foundation
 
 public final class MastodonAttachment: NSObject, Codable {
     public typealias ID = String

@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-7-15.
 //
 
-import UIKit
 import Combine
-import CoreDataStack
 import CommonOSLog
+import CoreDataStack
 import MastodonCore
+import UIKit
 
 final class SearchHistoryViewModel {
 

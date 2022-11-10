@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-11.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonUI
 
 enum StatusItem: Hashable {

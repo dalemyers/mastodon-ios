@@ -5,14 +5,14 @@
 //  Created by sxiaojian on 2021/3/31.
 //
 
-import os.log
 import Combine
 import GameplayKit
-import MastodonSDK
-import UIKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import os.log
+import UIKit
 
 final class HeightFixedSearchBar: UISearchBar {
     override var intrinsicContentSize: CGSize {

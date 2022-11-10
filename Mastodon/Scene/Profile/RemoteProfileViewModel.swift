@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-2.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreDataStack
-import MastodonSDK
+import Foundation
 import MastodonCore
+import MastodonSDK
+import os.log
 
 final class RemoteProfileViewModel: ProfileViewModel {
     

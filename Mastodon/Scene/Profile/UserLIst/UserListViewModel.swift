@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import GameplayKit
 import MastodonCore
+import os.log
+import UIKit
 
 final class UserListViewModel {
     

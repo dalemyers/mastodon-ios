@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-5-27.
 //
 
-import os.log
-import UIKit
-import SwiftUI
 import Combine
 import MastodonCore
 import MastodonLocalization
+import os.log
+import SwiftUI
+import UIKit
 
 public struct PollOptionTextField: UIViewRepresentable {
 

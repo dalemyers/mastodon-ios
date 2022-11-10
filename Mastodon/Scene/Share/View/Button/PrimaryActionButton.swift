@@ -5,9 +5,9 @@
 //  Created by BradGao on 2021/2/20.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 class PrimaryActionButton: UIButton {
     

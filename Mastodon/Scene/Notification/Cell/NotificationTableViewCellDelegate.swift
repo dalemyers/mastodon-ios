@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-26.
 //
 
-import UIKit
 import MastodonUI
 import MetaTextKit
+import UIKit
 
 // sourcery: protocolName = "NotificationViewDelegate"
 // sourcery: replaceOf = "notificationView(notificationView"

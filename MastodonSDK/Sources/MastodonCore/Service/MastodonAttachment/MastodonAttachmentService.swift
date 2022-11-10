@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-3-17.
 //
 
-import os.log
-import UIKit
 import Combine
-import PhotosUI
 import GameplayKit
-import MobileCoreServices
 import MastodonSDK
+import MobileCoreServices
+import os.log
+import PhotosUI
+import UIKit
 
 public protocol MastodonAttachmentServiceDelegate: AnyObject {
     func mastodonAttachmentService(_ service: MastodonAttachmentService, uploadStateDidChange state: MastodonAttachmentService.UploadState?)

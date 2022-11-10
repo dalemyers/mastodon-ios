@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-2-7.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 protocol ReportViewControllerAppearance: UIViewController {
     func setupAppearance()

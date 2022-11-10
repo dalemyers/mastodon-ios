@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonCore
 import MastodonUI
+import UIKit
 
 extension DataSourceFacade {
     static func responseToStatusReblogAction(

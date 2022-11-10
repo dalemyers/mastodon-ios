@@ -8,15 +8,15 @@
 // Note: Prefer use US favorite then EN favourite in coding
 // to following the text checker auto-correct behavior
 
-import os.log
-import UIKit
 import AVKit
 import Combine
 import GameplayKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 final class FavoriteViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {
     

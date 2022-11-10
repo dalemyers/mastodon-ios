@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-2-8.
 //
 
-import UIKit
-import MetaTextKit
 import MastodonAsset
 import MastodonLocalization
+import MetaTextKit
+import UIKit
 
 public final class SpoilerBannerView: UIView {
     

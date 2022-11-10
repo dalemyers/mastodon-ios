@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-2.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public final class PollOption: NSManagedObject {
     

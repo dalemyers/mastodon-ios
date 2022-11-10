@@ -6,11 +6,11 @@
 //
 
 import Foundation
-import UIKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 class SearchRecommendCollectionHeader: UIView {
     let titleLabel: UILabel = {

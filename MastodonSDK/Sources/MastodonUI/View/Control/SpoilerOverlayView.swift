@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-29.
 //
 
-import UIKit
-import MastodonLocalization
 import MastodonAsset
+import MastodonLocalization
 import MetaTextKit
+import UIKit
 
 public final class SpoilerOverlayView: UIView {
     

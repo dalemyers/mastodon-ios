@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-4-12.
 //
 
-import UIKit
-import MastodonUI
 import MastodonCore
+import MastodonUI
+import UIKit
 
 final class ThreadMetaView: UIView {
     

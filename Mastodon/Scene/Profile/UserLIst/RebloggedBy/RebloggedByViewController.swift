@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-5-17.
 //
 
-import os.log
-import UIKit
-import GameplayKit
 import Combine
+import GameplayKit
 import MastodonCore
 import MastodonLocalization
+import os.log
+import UIKit
 
 final class RebloggedByViewController: UIViewController, NeedsDependency {
 

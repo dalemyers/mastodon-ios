@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-1-13.
 //
 
-import UIKit
 import CoreDataStack
-import MetaTextKit
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 // MARK: - header
 extension StatusTableViewCellDelegate where Self: DataSourceProvider & AuthContextProvider {

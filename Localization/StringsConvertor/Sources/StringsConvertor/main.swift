@@ -1,5 +1,5 @@
-import os.log
 import Foundation
+import os.log
 
 // conver i18n JSON templates to strings files
 private func convert(from inputDirectoryURL: URL, to outputDirectory: URL) {

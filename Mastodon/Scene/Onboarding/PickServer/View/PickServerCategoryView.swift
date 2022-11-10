@@ -5,11 +5,11 @@
 //  Created by BradGao on 2021/2/23.
 //
 
-import UIKit
-import MastodonSDK
 import MastodonAsset
-import MastodonUI
 import MastodonLocalization
+import MastodonSDK
+import MastodonUI
+import UIKit
 
 class PickServerCategoryView: UIView {
     

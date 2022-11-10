@@ -5,15 +5,14 @@
 //  Created by MainasuK Cirno on 2021-7-19.
 //
 
-import os.log
-import UIKit
 import Combine
+import MastodonAsset
+import MastodonCore
+import MastodonLocalization
 import MastodonSDK
 import MastodonUI
-import MastodonAsset
-import MastodonLocalization
-import MastodonCore
-import MastodonUI
+import os.log
+import UIKit
 
 protocol ComposeToolbarViewDelegate: AnyObject {
     func composeToolbarView(_ composeToolbarView: ComposeToolbarView, contentWarningButtonDidPressed sender: UIButton)

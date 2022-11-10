@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-2-7.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
 import MastodonCore
 import MastodonSDK
+import UIKit
 
 class ReportSupplementaryViewModel {
     

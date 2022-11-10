@@ -5,12 +5,12 @@
 //  Created by ProtoLimit on 2022/07/28.
 //
 
-import Foundation
 import Combine
-import MastodonSDK
+import CommonOSLog
 import CoreData
 import CoreDataStack
-import CommonOSLog
+import Foundation
+import MastodonSDK
 
 extension APIService {
 

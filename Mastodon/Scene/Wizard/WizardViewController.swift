@@ -5,11 +5,11 @@
 //  Created by Cirno MainasuK on 2021-11-2.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
+import os.log
+import UIKit
 
 protocol WizardViewControllerDelegate: AnyObject {
     func readyToLayoutItem(_ wizardViewController: WizardViewController, item: WizardViewController.Item) -> Bool

@@ -5,10 +5,10 @@
 //  Created by ihugo on 2021/4/8.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 protocol SettingsAppearanceTableViewCellDelegate: AnyObject {
     func settingsAppearanceTableViewCell(_ cell: SettingsAppearanceTableViewCell, didSelectAppearanceMode appearanceMode: SettingsItem.AppearanceMode)

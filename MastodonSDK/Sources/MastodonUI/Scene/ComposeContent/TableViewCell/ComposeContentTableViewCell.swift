@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-6-28.
 //
 
-import os.log
-import UIKit
 import Combine
-import MetaTextKit
-import UITextView_Placeholder
 import MastodonAsset
 import MastodonLocalization
+import MetaTextKit
+import os.log
 import UIHostingConfigurationBackport
+import UIKit
+import UITextView_Placeholder
 
 //protocol ComposeStatusContentTableViewCellDelegate: AnyObject {
 //    func composeStatusContentTableViewCell(_ cell: ComposeStatusContentTableViewCell, textViewShouldBeginEditing textView: UITextView) -> Bool

@@ -8,10 +8,10 @@
 import Combine
 import CoreData
 import CoreDataStack
+import class CoreDataStack.Notification
 import Foundation
 import MastodonSDK
 import OSLog
-import class CoreDataStack.Notification
 
 extension APIService {
     

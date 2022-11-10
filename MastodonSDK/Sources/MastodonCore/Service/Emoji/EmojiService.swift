@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-3-15.
 //
 
-import os.log
-import Foundation
 import Combine
+import Foundation
 import MastodonSDK
+import os.log
 
 public final class EmojiService {
     

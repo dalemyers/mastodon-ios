@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-3-18.
 //
 
-import os.log
-import Foundation
 import Combine
+import Foundation
 import GameplayKit
 import MastodonSDK
+import os.log
 
 extension MastodonAttachmentService {
     public class UploadState: GKState {

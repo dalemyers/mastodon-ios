@@ -5,8 +5,8 @@
 //  Created by sxiaojian on 2021/4/13.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public final class Notification: NSManagedObject {
     public typealias ID = String

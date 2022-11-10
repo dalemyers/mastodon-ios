@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-5-17.
 //
 
-import os.log
 import Foundation
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
 
 extension AutoCompleteViewModel {
     class State: GKState {

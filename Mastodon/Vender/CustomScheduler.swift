@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-4-30.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 // Ref: https://stackoverflow.com/a/59069315/3797903
 struct CustomScheduler: Scheduler {

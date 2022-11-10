@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-17.
 //
 
-import Foundation
 import CoreDataStack
+import Foundation
 import MastodonSDK
 
 extension MastodonMention {

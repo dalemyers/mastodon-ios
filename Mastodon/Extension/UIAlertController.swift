@@ -3,8 +3,8 @@
 //  Mastodon
 //
 
-import UIKit
 import MastodonSDK
+import UIKit
 // Reference:
 // https://nshipster.com/swift-foundation-error-protocols/
 extension UIAlertController {

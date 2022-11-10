@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-10-9.
 //
 
-import Foundation
 import CoreData
+import Foundation
 
 public final class Instance: NSManagedObject {
     @NSManaged public var domain: String

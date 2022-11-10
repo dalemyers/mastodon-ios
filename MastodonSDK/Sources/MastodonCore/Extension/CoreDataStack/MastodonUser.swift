@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021/2/3.
 //
 
-import Foundation
 import CoreDataStack
-import MastodonSDK
+import Foundation
 import MastodonMeta
+import MastodonSDK
 
 extension MastodonUser {
 

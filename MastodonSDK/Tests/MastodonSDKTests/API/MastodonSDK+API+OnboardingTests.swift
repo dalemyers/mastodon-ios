@@ -5,10 +5,10 @@
 //  Created by MainasuK Cirno on 2021-2-18.
 //
 
-import os.log
-import XCTest
 import Combine
 @testable import MastodonSDK
+import os.log
+import XCTest
 
 extension MastodonSDKTests {
     

@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-9-14.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 final class DragIndicatorView: UIView {
 

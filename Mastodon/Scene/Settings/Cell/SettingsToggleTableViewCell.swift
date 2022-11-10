@@ -5,10 +5,10 @@
 //  Created by ihugo on 2021/4/8.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 protocol SettingsToggleCellDelegate: AnyObject {
     func settingsToggleCell(_ cell: SettingsToggleTableViewCell, switchValueDidChange switch: UISwitch)

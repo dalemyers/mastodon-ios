@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-20.
 //
 
-import os.log
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import os.log
+import UIKit
 
 protocol SearchHistorySectionHeaderCollectionReusableViewDelegate: AnyObject {
     func searchHistorySectionHeaderCollectionReusableView(_ searchHistorySectionHeaderCollectionReusableView: SearchHistorySectionHeaderCollectionReusableView, clearButtonDidPressed button: UIButton)

@@ -5,10 +5,10 @@
 //  Created by sxiaojian on 2021/3/31.
 //
 
-import Foundation
 import Combine
-import MastodonSDK
 import CommonOSLog
+import Foundation
+import MastodonSDK
 
 extension APIService {
  

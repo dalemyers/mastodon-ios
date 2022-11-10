@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-19.
 //
 
-import UIKit
 import CoreDataStack
+import UIKit
 
 extension UserTableViewCell {
     final class ViewModel {

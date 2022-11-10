@@ -5,17 +5,17 @@
 //  Created by MainasuK Cirno on 2021-2-23.
 //
 
-import os.log
-import UIKit
 import Combine
-import MastodonMeta
-import MetaTextKit
+import CoreDataStack
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
-import CoreDataStack
+import MastodonMeta
+import MastodonUI
+import MetaTextKit
+import os.log
 import TabBarPager
+import UIKit
 import XLPagerTabStrip
 
 protocol ProfileViewModelEditable {

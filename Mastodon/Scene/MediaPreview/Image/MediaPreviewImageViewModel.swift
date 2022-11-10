@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-4-28.
 //
 
-import os.log
-import UIKit
-import Combine
 import Alamofire
 import AlamofireImage
+import Combine
 import FLAnimatedImage
 import MastodonCore
+import os.log
+import UIKit
 
 class MediaPreviewImageViewModel {
 

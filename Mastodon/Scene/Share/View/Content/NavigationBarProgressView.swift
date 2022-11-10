@@ -5,9 +5,9 @@
 //  Created by sxiaojian on 2021/3/16.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 class NavigationBarProgressView: UIView {
     

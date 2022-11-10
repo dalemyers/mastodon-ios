@@ -5,10 +5,10 @@
 //  Created by sxiaojian on 2021/2/5.
 //
 
-import os.log
 import Foundation
 import GameplayKit
 import MastodonSDK
+import os.log
 
 extension HomeTimelineViewModel {
     class LoadOldestState: GKState {

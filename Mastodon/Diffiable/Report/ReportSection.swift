@@ -9,13 +9,13 @@ import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import UIKit
-import os.log
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonSDK
+import MastodonUI
+import os.log
+import UIKit
 
 enum ReportSection: Equatable, Hashable {
     case main

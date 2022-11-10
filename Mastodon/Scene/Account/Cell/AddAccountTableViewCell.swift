@@ -5,13 +5,13 @@
 //  Created by Cirno MainasuK on 2021-9-14.
 //
 
-import UIKit
 import Combine
-import MetaTextKit
 import MastodonAsset
-import MastodonLocalization
 import MastodonCore
+import MastodonLocalization
 import MastodonUI
+import MetaTextKit
+import UIKit
 
 final class AddAccountTableViewCell: UITableViewCell {
     

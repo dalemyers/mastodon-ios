@@ -5,15 +5,15 @@
 //  Created by Cirno MainasuK on 2021-9-22.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
-import Meta
-import MastodonMeta
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonMeta
+import Meta
+import UIKit
 
 final class SidebarViewModel {
     

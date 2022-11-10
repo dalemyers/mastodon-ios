@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-12.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 extension DiscoveryPostsViewModel {
     

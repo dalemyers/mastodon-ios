@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-2-7.
 //
 
-import os.log
-import func QuartzCore.CACurrentMediaTime
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import GameplayKit
+import os.log
+import func QuartzCore.CACurrentMediaTime
 
 extension ReportStatusViewModel {
     class State: GKState {

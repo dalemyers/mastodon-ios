@@ -5,8 +5,8 @@
 //  Created by Jed Fox on 2022-11-03.
 //
 
-import Meta
 import MastodonLocalization
+import Meta
 
 extension Meta.Entity {
     var accessibilityCustomActionLabel: String? {

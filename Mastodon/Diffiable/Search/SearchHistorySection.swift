@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-7-15.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonCore
+import UIKit
 
 enum SearchHistorySection: Hashable {
     case main

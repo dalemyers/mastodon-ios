@@ -5,9 +5,9 @@
 //  Created by BradGao on 2021/2/23.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 final class OnboardingHeadlineTableViewCell: UITableViewCell {
     

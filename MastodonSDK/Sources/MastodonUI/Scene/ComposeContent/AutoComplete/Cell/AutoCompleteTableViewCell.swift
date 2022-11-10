@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-5-17.
 //
 
-import UIKit
 import FLAnimatedImage
-import MetaTextKit
 import MastodonAsset
 import MastodonLocalization
+import MetaTextKit
+import UIKit
 
 public final class AutoCompleteTableViewCell: UITableViewCell {
     

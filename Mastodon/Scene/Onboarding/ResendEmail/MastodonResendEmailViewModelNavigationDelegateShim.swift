@@ -5,8 +5,8 @@
 //  Created by sxiaojian on 2021/2/25.
 //
 
-import os.log
 import Foundation
+import os.log
 import WebKit
 
 final class MastodonResendEmailViewModelNavigationDelegateShim: NSObject {

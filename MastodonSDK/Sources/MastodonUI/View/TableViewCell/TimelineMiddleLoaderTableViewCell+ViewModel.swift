@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-1-17.
 //
 
-import UIKit
 import Combine
 import CoreDataStack
+import UIKit
 
 extension TimelineMiddleLoaderTableViewCell {
     public class ViewModel {

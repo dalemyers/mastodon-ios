@@ -5,14 +5,14 @@
 //  Created by Jed Fox on 2022-10-31.
 //
 
-import os.log
-import UIKit
 import Combine
-import Meta
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import Meta
+import MetaTextKit
+import os.log
+import UIKit
 
 public class StatusAuthorView: UIStackView {
     let logger = Logger(subsystem: "StatusAuthorView", category: "View")

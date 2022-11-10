@@ -5,15 +5,15 @@
 //  Created by MainasuK on 22/9/30.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
+import MastodonCore
+import MastodonMeta
+import MastodonSDK
 import Meta
 import MetaTextKit
-import MastodonMeta
-import MastodonCore
-import MastodonSDK
+import os.log
+import UIKit
 
 public final class ComposeContentViewModel: NSObject, ObservableObject {
     

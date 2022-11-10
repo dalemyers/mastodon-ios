@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-1-26.
 //
 
-import UIKit
 import MastodonLocalization
+import UIKit
 
 public protocol MastodonMenuDelegate: AnyObject {
     func menuAction(_ action: MastodonMenu.Action)

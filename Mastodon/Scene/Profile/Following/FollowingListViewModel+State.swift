@@ -5,10 +5,10 @@
 //  Created by Cirno MainasuK on 2021-11-2.
 //
 
-import os.log
 import Foundation
 import GameplayKit
 import MastodonSDK
+import os.log
 
 extension FollowingListViewModel {
     class State: GKState {

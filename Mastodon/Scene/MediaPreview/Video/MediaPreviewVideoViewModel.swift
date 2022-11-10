@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-2-9.
 //
 
-import os.log
-import UIKit
+import AlamofireImage
 import AVKit
 import Combine
-import AlamofireImage
 import MastodonCore
+import os.log
+import UIKit
 
 final class MediaPreviewVideoViewModel {
     

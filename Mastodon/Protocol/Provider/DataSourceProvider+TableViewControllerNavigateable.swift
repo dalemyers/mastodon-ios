@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-2-16.
 //
 
+import MastodonCore
 import os.log
 import UIKit
-import MastodonCore
 
 extension TableViewControllerNavigateableCore where Self: TableViewControllerNavigateableRelay {
     var navigationKeyCommands: [UIKeyCommand] {

@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2021-12-31.
 //
 
-import UIKit
-import MastodonUI
 import MastodonAsset
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 final class NavigationActionView: UIView {
     

@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-4-19.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 public protocol DiscoveryIntroBannerViewDelegate: AnyObject {
     func discoveryIntroBannerView(_ bannerView: DiscoveryIntroBannerView, closeButtonDidPressed button: UIButton)

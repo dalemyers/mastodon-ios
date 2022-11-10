@@ -5,15 +5,15 @@
 //  Created by ihugo on 2021/4/7.
 //
 
+import AuthenticationServices
 import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import UIKit
-import os.log
-import AuthenticationServices
 import MastodonCore
+import MastodonSDK
+import os.log
+import UIKit
 
 class SettingsViewModel {
     

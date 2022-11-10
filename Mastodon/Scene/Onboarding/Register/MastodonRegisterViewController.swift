@@ -7,15 +7,15 @@
 
 import AlamofireImage
 import Combine
-import MastodonSDK
-import os.log
-import PhotosUI
-import UIKit
-import SwiftUI
-import MastodonUI
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import MastodonUI
+import os.log
+import PhotosUI
+import SwiftUI
+import UIKit
 
 final class MastodonRegisterViewController: UIViewController, NeedsDependency, OnboardingViewControllerAppearance {
     

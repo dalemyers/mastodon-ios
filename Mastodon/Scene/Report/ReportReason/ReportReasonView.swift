@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-5-10.
 //
 
-import UIKit
-import SwiftUI
-import MastodonLocalization
-import MastodonSDK
 import MastodonAsset
 import MastodonCore
+import MastodonLocalization
+import MastodonSDK
+import SwiftUI
+import UIKit
 
 struct ReportReasonView: View {
     

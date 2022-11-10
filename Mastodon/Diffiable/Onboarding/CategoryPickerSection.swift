@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021/3/5.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 enum CategoryPickerSection: Equatable, Hashable {
     case main

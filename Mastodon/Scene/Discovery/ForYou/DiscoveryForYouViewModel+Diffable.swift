@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-14.
 //
 
-import UIKit
 import Combine
 import MastodonUI
+import UIKit
 
 extension DiscoveryForYouViewModel {
     

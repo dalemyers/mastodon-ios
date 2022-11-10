@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-6.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import GameplayKit
 import MastodonCore
+import UIKit
 
 final class FavoriteViewModel {
     

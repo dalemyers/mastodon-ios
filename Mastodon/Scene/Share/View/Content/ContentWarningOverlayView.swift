@@ -5,14 +5,14 @@
 //  Created by sxiaojian on 2021/3/11.
 //
 
-import os.log
-import Foundation
 import Combine
-import UIKit
+import Foundation
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import os.log
+import UIKit
 
 protocol ContentWarningOverlayViewDelegate: AnyObject {
     func contentWarningOverlayViewDidPressed(_ contentWarningOverlayView: ContentWarningOverlayView)

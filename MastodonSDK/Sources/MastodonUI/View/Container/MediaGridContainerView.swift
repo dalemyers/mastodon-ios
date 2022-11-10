@@ -6,9 +6,9 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
+import func AVFoundation.AVMakeRect
 import os.log
 import UIKit
-import func AVFoundation.AVMakeRect
 
 public protocol MediaGridContainerViewDelegate: AnyObject {
     func mediaGridContainerView(_ container: MediaGridContainerView, didTapMediaView mediaView: MediaView, at index: Int)

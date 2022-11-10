@@ -5,12 +5,12 @@
 //  Created by Cirno MainasuK on 2021-9-24.
 //
 
-import os.log
-import UIKit
-import MetaTextKit
 import FLAnimatedImage
 import MastodonCore
 import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 final class SidebarListContentView: UIView, UIContentView {
     

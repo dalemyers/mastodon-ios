@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021/2/2.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 // MARK: - Retrieve information
 extension Mastodon.API.Account {

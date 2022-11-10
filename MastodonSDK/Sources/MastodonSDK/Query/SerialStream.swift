@@ -5,9 +5,9 @@
 //  Created by MainasuK Cirno on 2021-5-28.
 //
 
-import os.log
-import Foundation
 import Combine
+import Foundation
+import os.log
 
 // ref:
 // - https://developer.apple.com/documentation/foundation/url_loading_system/uploading_streams_of_data#3037342

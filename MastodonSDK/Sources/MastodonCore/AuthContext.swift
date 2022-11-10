@@ -5,11 +5,11 @@
 //  Created by MainasuK on 22/10/8.
 //
 
-import os.log
-import Foundation
 import Combine
 import CoreDataStack
+import Foundation
 import MastodonSDK
+import os.log
 
 public protocol AuthContextProvider {
     var authContext: AuthContext { get }

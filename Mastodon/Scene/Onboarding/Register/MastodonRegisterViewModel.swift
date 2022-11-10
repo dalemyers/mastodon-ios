@@ -7,11 +7,11 @@
 
 import Combine
 import Foundation
-import MastodonSDK
-import UIKit
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 final class MastodonRegisterViewModel: ObservableObject {
     var disposeBag = Set<AnyCancellable>()

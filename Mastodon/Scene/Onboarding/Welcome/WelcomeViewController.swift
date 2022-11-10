@@ -5,12 +5,12 @@
 //  Created by BradGao on 2021/2/20.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import os.log
+import UIKit
 
 final class WelcomeViewController: UIViewController, NeedsDependency {
     

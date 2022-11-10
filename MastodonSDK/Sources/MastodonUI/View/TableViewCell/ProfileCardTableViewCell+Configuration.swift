@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-4-19.
 //
 
-import UIKit
 import CoreDataStack
 import MastodonSDK
+import UIKit
 
 extension ProfileCardTableViewCell {
     

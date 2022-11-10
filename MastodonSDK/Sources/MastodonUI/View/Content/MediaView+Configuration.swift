@@ -6,13 +6,13 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
-import UIKit
+import AlamofireImage
 import Combine
 import CoreData
 import CoreDataStack
-import Photos
-import AlamofireImage
 import MastodonCore
+import Photos
+import UIKit
 
 extension MediaView {
     public class Configuration: Hashable {

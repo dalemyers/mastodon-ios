@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-4-29.
 //
 
-import os.log
-import UIKit
 import Combine
-import GameplayKit
 import CoreData
 import CoreDataStack
+import GameplayKit
 import MastodonSDK
+import os.log
+import UIKit
 
 final class DiscoveryCommunityViewViewModel {
     

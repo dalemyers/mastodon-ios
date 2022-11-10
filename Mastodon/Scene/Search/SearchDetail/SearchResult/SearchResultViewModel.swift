@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-7-14.
 //
 
-import Foundation
 import Combine
+import CommonOSLog
 import CoreData
 import CoreDataStack
+import Foundation
 import GameplayKit
-import CommonOSLog
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
 
 final class SearchResultViewModel {
 

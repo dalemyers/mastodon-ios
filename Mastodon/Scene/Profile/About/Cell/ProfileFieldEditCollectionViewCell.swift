@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-22.
 //
 
-import os.log
-import UIKit
 import Combine
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import MetaTextKit
+import os.log
+import UIKit
 
 protocol ProfileFieldEditCollectionViewCellDelegate: AnyObject {
     func profileFieldEditCollectionViewCell(_ cell: ProfileFieldEditCollectionViewCell, editButtonDidPressed button: UIButton)

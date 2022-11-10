@@ -5,14 +5,14 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
-import GameplayKit
 import Combine
 import CoreData
 import CoreDataStack
-import MastodonSDK
+import GameplayKit
 import MastodonCore
+import MastodonSDK
+import os.log
+import UIKit
 
 final class UserTimelineViewModel {
     

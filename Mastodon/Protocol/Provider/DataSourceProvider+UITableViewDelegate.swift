@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-1-17.
 //
 
-import os.log
-import UIKit
 import CoreDataStack
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 extension UITableViewDelegate where Self: DataSourceProvider & AuthContextProvider {
 

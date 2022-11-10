@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-4-13.
 //
 
-import UIKit
 import MastodonCore
+import UIKit
 
 extension UIView {
     

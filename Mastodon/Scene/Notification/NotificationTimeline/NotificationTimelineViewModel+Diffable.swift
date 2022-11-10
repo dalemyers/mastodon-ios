@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import os.log
-import UIKit
 import CoreData
 import CoreDataStack
+import os.log
+import UIKit
 
 extension NotificationTimelineViewModel {
     

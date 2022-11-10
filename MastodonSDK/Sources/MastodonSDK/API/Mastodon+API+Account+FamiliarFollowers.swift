@@ -5,8 +5,8 @@
 //  Created by MainasuK on 2022-5-13.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 // https://github.com/mastodon/mastodon/pull/17700
 extension Mastodon.API.Account {

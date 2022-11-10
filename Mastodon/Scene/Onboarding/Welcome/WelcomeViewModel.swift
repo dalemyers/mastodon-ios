@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-9-15.
 //
 
-import Foundation
 import Combine
+import Foundation
 import MastodonCore
 
 final class WelcomeViewModel {

@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-5-11.
 //
 
-import UIKit
-import Pageboy
 import MastodonLocalization
+import Pageboy
+import UIKit
 
 typealias PageboyNavigateable = PageboyNavigateableCore & PageboyNavigateableRelay
 

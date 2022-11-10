@@ -5,9 +5,9 @@
 //  Created by MainasuK on 2022-6-2.
 //
 
+import MastodonLocalization
 import UIKit
 import XLPagerTabStrip
-import MastodonLocalization
 
 typealias PagerTabStripNavigateable = PagerTabStripNavigateableCore & PagerTabStripNavigateableRelay
 

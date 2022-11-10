@@ -5,11 +5,11 @@
 //  Created by MainasuK on 2022-4-12.
 //
 
-import os.log
 import Foundation
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
 
 extension DiscoveryPostsViewModel {
     class State: GKState {

@@ -5,9 +5,9 @@
 //  Created by sxiaojian on 2021/2/25.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 protocol OnboardingViewControllerAppearance: UIViewController {
     static var viewBottomPaddingHeight: CGFloat { get }

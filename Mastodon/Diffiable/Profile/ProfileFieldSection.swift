@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-5-25.
 //
 
-import os
-import UIKit
 import Combine
 import MastodonCore
-import MastodonMeta
 import MastodonLocalization
+import MastodonMeta
+import os
+import UIKit
 
 enum ProfileFieldSection: Equatable, Hashable {
     case main

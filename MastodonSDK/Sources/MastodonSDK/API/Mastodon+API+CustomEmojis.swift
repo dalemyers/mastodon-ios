@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-3-15.
 //
 
-import Foundation
 import Combine
+import Foundation
 
 extension Mastodon.API.CustomEmojis {
 

@@ -6,8 +6,8 @@
 //
 
 import Foundation
-import MastodonSDK
 import MastodonMeta
+import MastodonSDK
 
 extension Mastodon.Entity.Account: Hashable {
     public func hash(into hasher: inout Hasher) {

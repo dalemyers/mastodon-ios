@@ -5,15 +5,15 @@
 //  Created by ProtoLimit on 2022-07-19.
 //
 
-import os.log
-import UIKit
 import AVKit
 import Combine
 import GameplayKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import os.log
+import UIKit
 
 final class BookmarkViewController: UIViewController, NeedsDependency, MediaPreviewableViewController {
     

@@ -5,14 +5,14 @@
 //  Created by MainasuK on 2022-1-10.
 //
 
-import os.log
-import UIKit
 import Combine
-import MetaTextKit
-import Meta
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import Meta
+import MetaTextKit
+import os.log
+import UIKit
 
 public extension CGSize {
     static let authorAvatarButtonSize = CGSize(width: 46, height: 46)

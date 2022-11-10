@@ -5,13 +5,13 @@
 //  Created by MainasuK on 2022-1-21.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreDataStack
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
+import UIKit
 
 final class NotificationTimelineViewModel {
     

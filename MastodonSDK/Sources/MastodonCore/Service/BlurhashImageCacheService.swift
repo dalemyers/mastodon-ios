@@ -5,8 +5,8 @@
 //  Created by MainasuK Cirno on 2021-6-16.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 public final class BlurhashImageCacheService {
     

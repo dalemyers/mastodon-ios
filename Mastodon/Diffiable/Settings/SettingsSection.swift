@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-4-25.
 //
 
-import UIKit
 import CoreData
 import CoreDataStack
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
+import UIKit
 
 enum SettingsSection: Hashable {
     case appearance

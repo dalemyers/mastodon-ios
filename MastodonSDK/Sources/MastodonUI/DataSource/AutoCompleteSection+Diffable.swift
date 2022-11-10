@@ -5,11 +5,11 @@
 //  Created by MainasuK on 22/10/10.
 //
 
-import UIKit
 import MastodonCore
-import MastodonSDK
 import MastodonLocalization
 import MastodonMeta
+import MastodonSDK
+import UIKit
 
 extension AutoCompleteSection {
     

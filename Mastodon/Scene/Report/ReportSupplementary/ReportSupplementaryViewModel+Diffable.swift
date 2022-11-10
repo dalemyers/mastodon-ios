@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2022-2-7.
 //
 
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 extension ReportSupplementaryViewModel {
     

@@ -5,11 +5,11 @@
 //  Created by MainasuK Cirno on 2021-4-7.
 //
 
-import os.log
 import Foundation
 import GameplayKit
 import MastodonCore
 import MastodonSDK
+import os.log
 
 extension FavoriteViewModel {
     class State: GKState {

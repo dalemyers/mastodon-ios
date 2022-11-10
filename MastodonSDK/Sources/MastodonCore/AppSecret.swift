@@ -6,11 +6,11 @@
 //
 
 
-import Foundation
+import ArkanaKeys
 import CryptoKit
+import Foundation
 import KeychainAccess
 import MastodonCommon
-import ArkanaKeys
 
 public final class AppSecret {
     

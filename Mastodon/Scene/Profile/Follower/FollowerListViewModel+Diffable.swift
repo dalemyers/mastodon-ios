@@ -5,9 +5,9 @@
 //  Created by Cirno MainasuK on 2021-11-1.
 //
 
-import UIKit
 import MastodonAsset
 import MastodonLocalization
+import UIKit
 
 extension FollowerListViewModel {
     func setupDiffableDataSource(

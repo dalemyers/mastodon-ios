@@ -5,14 +5,14 @@
 //  Created by BradGao on 2021/3/30.
 //
 
-import os.log
-import UIKit
 import Combine
 import CoreData
 import CoreDataStack
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
+import UIKit
 
 final class HashtagTimelineViewModel {
     

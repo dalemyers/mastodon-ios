@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-5-13.
 //
 
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonUI
+import UIKit
 
 public final class PickServerLoaderTableViewCell: TimelineLoaderTableViewCell {
     

@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021-11-10.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 // ref: Texture.ASBatchFetchingDelegate
 final class ListBatchFetchViewModel {

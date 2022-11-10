@@ -6,11 +6,11 @@
 //
 
 
-import os.log
-import Foundation
 import CoreData
 import CoreDataStack
+import Foundation
 import MastodonSDK
+import os.log
 
 extension APIService.CoreData {
     

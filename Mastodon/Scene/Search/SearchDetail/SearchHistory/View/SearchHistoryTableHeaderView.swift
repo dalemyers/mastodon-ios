@@ -5,13 +5,13 @@
 //  Created by MainasuK Cirno on 2021-7-14.
 //
 
-import os.log
-import UIKit
 import Combine
 import MastodonAsset
 import MastodonCore
 import MastodonLocalization
 import MastodonUI
+import os.log
+import UIKit
 
 protocol SearchHistoryTableHeaderViewDelegate: AnyObject {
     func searchHistoryTableHeaderView(_ searchHistoryTableHeaderView: SearchHistoryTableHeaderView, clearSearchHistoryButtonDidPressed button: UIButton)

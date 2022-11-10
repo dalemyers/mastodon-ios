@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2021/11/19.
 //
 
-import os.log
-import UIKit
 import Combine
-import PhotosUI
 import Kingfisher
 import MastodonCore
+import os.log
+import PhotosUI
+import UIKit
 
 final public class AttachmentViewModel: NSObject, ObservableObject, Identifiable {
 

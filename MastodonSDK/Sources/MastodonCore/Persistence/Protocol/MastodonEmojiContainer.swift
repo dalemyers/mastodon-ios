@@ -6,9 +6,9 @@
 //  Copyright © 2021 Twidere. All rights reserved.
 //
 
+import CoreDataStack
 import Foundation
 import MastodonSDK
-import CoreDataStack
 
 public protocol MastodonEmojiContainer {
     var emojis: [Mastodon.Entity.Emoji]? { get }

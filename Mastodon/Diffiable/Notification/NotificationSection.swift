@@ -9,14 +9,14 @@ import Combine
 import CoreData
 import CoreDataStack
 import Foundation
-import MastodonSDK
-import UIKit
-import MetaTextKit
-import MastodonMeta
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonMeta
+import MastodonSDK
+import MastodonUI
+import MetaTextKit
+import UIKit
 
 enum NotificationSection: Equatable, Hashable {
     case main

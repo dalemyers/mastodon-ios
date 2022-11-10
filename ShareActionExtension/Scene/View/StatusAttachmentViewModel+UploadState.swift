@@ -5,12 +5,12 @@
 //  Created by MainasuK Cirno on 2021-7-20.
 //
 
-import os.log
-import Foundation
 import Combine
+import Foundation
 import GameplayKit
-import MastodonSDK
 import MastodonCore
+import MastodonSDK
+import os.log
 
 extension StatusAttachmentViewModel {
     class UploadState: GKState {

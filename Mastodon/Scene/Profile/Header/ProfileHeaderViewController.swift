@@ -5,20 +5,20 @@
 //  Created by MainasuK Cirno on 2021-3-29.
 //
 
-import os.log
-import UIKit
+import AlamofireImage
 import Combine
 import CoreDataStack
-import PhotosUI
-import AlamofireImage
 import CropViewController
-import MastodonMeta
-import MetaTextKit
 import MastodonAsset
 import MastodonCore
-import MastodonUI
 import MastodonLocalization
+import MastodonMeta
+import MastodonUI
+import MetaTextKit
+import os.log
+import PhotosUI
 import TabBarPager
+import UIKit
 
 protocol ProfileHeaderViewControllerDelegate: AnyObject {
     func profileHeaderViewController(_ profileHeaderViewController: ProfileHeaderViewController, profileHeaderView: ProfileHeaderView, relationshipButtonDidPressed button: ProfileRelationshipActionButton)

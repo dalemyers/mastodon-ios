@@ -5,8 +5,8 @@
 //  Created by Cirno MainasuK on 2021/3/5.
 //
 
-import UIKit
 import Combine
+import UIKit
 
 extension MastodonPickServerViewModel {
     

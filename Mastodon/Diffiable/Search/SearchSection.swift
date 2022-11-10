@@ -5,10 +5,10 @@
 //  Created by MainasuK on 2022-1-18.
 //
 
-import UIKit
-import MastodonSDK
 import MastodonCore
 import MastodonLocalization
+import MastodonSDK
+import UIKit
 
 enum SearchSection: Hashable {
     case trend

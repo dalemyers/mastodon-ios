@@ -5,12 +5,12 @@
 //  Created by MainasuK on 2021-11-26.
 //
 
-import os.log
-import UIKit
 import Kingfisher
-import UniformTypeIdentifiers
 import MastodonCore
 import MastodonSDK
+import os.log
+import UIKit
+import UniformTypeIdentifiers
 
 // objc.io
 // ref: https://talk.objc.io/episodes/S01E269-swift-concurrency-async-sequences-part-1
